@@ -1,5 +1,7 @@
 # Python version
 
+Yều cầu <= 3.12 (*Khuyến nghị 3.10*)
+
 ```bash
 py -3.10 -m venv <tên môi trường>
 ```
