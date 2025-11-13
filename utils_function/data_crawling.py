@@ -2,6 +2,7 @@ import time, json, os
 import requests as rq
 from io import BytesIO
 from PIL import Image
+from dotenv import load_dotenv
 
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
@@ -10,6 +11,7 @@ from selenium.webdriver.common.by import By
 from selenium.common.exceptions import WebDriverException
 
 from concurrent.futures import ThreadPoolExecutor, as_completed
+load_dotenv()
 
 class TraficImagesCrawler:
     def __init__(self, chrome_binary_path : str, chrome_driver_path : str):
@@ -27,7 +29,8 @@ class TraficImagesCrawler:
         )
         return driver
     
-    def load_source(self, source_path : str) -> None:
+    def load_source(self) -> None:
+        source_path = "data/DataScource.json"
         with open(source_path, 'r', encoding='utf-8') as f:
             self.data = json.load(f)
             return
@@ -142,14 +145,13 @@ class TraficImagesCrawler:
                 f.result()
                     
 if __name__ == "__main__":
-    chrome_binary = r"C:\Users\1tram\OneDrive\Documents\Chrome_Driver\chrome-win64\chrome.exe"
-    chromedriver_path = r"C:\Users\1tram\OneDrive\Documents\Chrome_Driver\chromedriver-win64\chromedriver.exe"
+    chrome_binary = os.getenv("CHROME_PATH")
+    chromedriver_path = os.getenv("CHROME_DRIVER_PATH")
 
     crawler = TraficImagesCrawler(
         chrome_binary_path = chrome_binary,
         chrome_driver_path = chromedriver_path
     )
     
-    crawler.load_source(r"data\DataScource.json")
-    
+    crawler.load_source()
     crawler.crawling_handle_multithread("tmp/test_crawl_data", 5, workers=2)
