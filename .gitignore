@@ -1,2 +1,4 @@
 data/
 venv/
+public/Chrome_Driver
+tmp/tracking.mp4
