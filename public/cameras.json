@@ -1,0 +1,4691 @@
+[
+    {
+        "id": "662b86c41afb9c00172dd31c",
+        "name": "Trần Quang Khải - Trần Khắc Chân",
+        "coord": {
+            "latitude": 10.7918902432446,
+            "longitude": 106.691054105759
+        },
+        "coordinate": "10.7918902432446, 106.691054105759"
+    },
+    {
+        "id": "6623f4df6f998a001b2528eb",
+        "name": "Quốc Lộ 13 - cầu Ông Dầu",
+        "coord": {
+            "latitude": 10.8361932799182,
+            "longitude": 106.713809967041
+        },
+        "coordinate": "10.8361932799182, 106.713809967041"
+    },
+    {
+        "id": "662b7ce71afb9c00172dc676",
+        "name": "Cách Mạng Tháng Tám - Bùi Thị Xuân",
+        "coord": {
+            "latitude": 10.7726452614037,
+            "longitude": 106.691064834595
+        },
+        "coordinate": "10.7726452614037, 106.691064834595"
+    },
+    {
+        "id": "583f969161cfea0012cf68f7",
+        "name": "Nguyễn Thị Định - Đường D",
+        "coord": {
+            "latitude": 10.7646823693643,
+            "longitude": 106.781423091888
+        },
+        "coordinate": "10.7646823693643, 106.781423091888"
+    },
+    {
+        "id": "6623e8da6f998a001b2524a6",
+        "name": "Phan Đăng Lưu - Thích Quảng Đức",
+        "coord": {
+            "latitude": 10.8032933150268,
+            "longitude": 106.684530973434
+        },
+        "coordinate": "10.8032933150268, 106.684530973434"
+    },
+    {
+        "id": "66b1c426779f74001867415e",
+        "name": "Điện Biên Phủ - Nguyễn Gia Trí",
+        "coord": {
+            "latitude": 10.8010801833774,
+            "longitude": 106.715161800385
+        },
+        "coordinate": "10.8010801833774, 106.715161800385"
+    },
+    {
+        "id": "595dc29c3dcfc400106f2894",
+        "name": "Quốc lộ 1 - Rạch Láng Le 1",
+        "coord": {
+            "latitude": 10.8610818827294,
+            "longitude": 106.686397790909
+        },
+        "coordinate": "10.8610818827294, 106.686397790909"
+    },
+    {
+        "id": "5d9de4de766c880017188cbb",
+        "name": "Cao tốc LTDG - Võ Chí Công",
+        "coord": {
+            "latitude": 10.796827763223,
+            "longitude": 106.790762543678
+        },
+        "coordinate": "10.796827763223, 106.790762543678"
+    },
+    {
+        "id": "6623f44f6f998a001b2528aa",
+        "name": "Võ Nguyên Giáp - Đỗ Xuân Hợp (1)",
+        "coord": {
+            "latitude": 10.8349709243101,
+            "longitude": 106.765716075897
+        },
+        "coordinate": "10.8349709243101, 106.765716075897"
+    },
+    {
+        "id": "662b4ecb1afb9c00172d8692",
+        "name": "Nguyễn Chí Thanh - Thuận Kiều",
+        "coord": {
+            "latitude": 10.7576784340111,
+            "longitude": 106.658009290695
+        },
+        "coordinate": "10.7576784340111, 106.658009290695"
+    },
+    {
+        "id": "5deb576d1dc17d7c5515ad15",
+        "name": "Lý Tự Trọng - Chu Mạnh Trinh",
+        "coord": {
+            "latitude": 10.781944,
+            "longitude": 106.704602
+        },
+        "coordinate": "10.781944, 106.704602"
+    },
+    {
+        "id": "5b8b2323ca057700116405d0",
+        "name": "Trường Sơn - Ga Quốc Nội 2",
+        "coord": {
+            "latitude": 10.8129465937096,
+            "longitude": 106.664902567863
+        },
+        "coordinate": "10.8129465937096, 106.664902567863"
+    },
+    {
+        "id": "63ae7a50bfd3d90017e8f2b2",
+        "name": "Ba Tháng Hai – Sư Vạn Hạnh",
+        "coord": {
+            "latitude": 10.7697784337206,
+            "longitude": 106.670830249786
+        },
+        "coordinate": "10.7697784337206, 106.670830249786"
+    },
+    {
+        "id": "587ee0ecb807da0011e33d50",
+        "name": "Phan Đăng Lưu - Lê Văn Duyệt",
+        "coord": {
+            "latitude": 10.8019970541825,
+            "longitude": 106.696482896805
+        },
+        "coordinate": "10.8019970541825, 106.696482896805"
+    },
+    {
+        "id": "56de42f611f398ec0c48128f",
+        "name": "Võ Văn Kiệt - Huỳnh Mẫn Đạt",
+        "coord": {
+            "latitude": 10.751960277381,
+            "longitude": 106.677197813988
+        },
+        "coordinate": "10.751960277381, 106.677197813988"
+    },
+    {
+        "id": "56de42f611f398ec0c4812a2",
+        "name": "Nút giao Mỹ Thủy 2",
+        "coord": {
+            "latitude": 10.7701157,
+            "longitude": 106.7755866
+        },
+        "coordinate": "10.7701157, 106.7755866"
+    },
+    {
+        "id": "58b571c817139d0010f35d5d",
+        "name": "Nguyễn Văn Trỗi - Trần Huy Liệu",
+        "coord": {
+            "latitude": 10.794472307568,
+            "longitude": 106.677948832512
+        },
+        "coordinate": "10.794472307568, 106.677948832512"
+    },
+    {
+        "id": "63bd1f21bfd3d90017ec3d04",
+        "name": "Huỳnh Tấn Phát - Phạm Hữu Lầu",
+        "coord": {
+            "latitude": 10.7052043577961,
+            "longitude": 106.737660169601
+        },
+        "coordinate": "10.7052043577961, 106.737660169601"
+    },
+    {
+        "id": "58df4d95dc195800111e04b9",
+        "name": "Phổ Quang - Hoàng Minh Giám",
+        "coord": {
+            "latitude": 10.8079619154301,
+            "longitude": 106.672879457474
+        },
+        "coordinate": "10.8079619154301, 106.672879457474"
+    },
+    {
+        "id": "595dd8463dcfc400106f28b2",
+        "name": "Quốc lộ 1 - Đường Lê Thị Riêng 2",
+        "coord": {
+            "latitude": 10.8619248135124,
+            "longitude": 106.654415130615
+        },
+        "coordinate": "10.8619248135124, 106.654415130615"
+    },
+    {
+        "id": "5d8cd4ee766c880017188946",
+        "name": "Lê Văn Sỹ - Huỳnh Văn Bánh",
+        "coord": {
+            "latitude": 10.7918902432446,
+            "longitude": 106.671452522278
+        },
+        "coordinate": "10.7918902432446, 106.671452522278"
+    },
+    {
+        "id": "662b81721afb9c00172dcc44",
+        "name": "Đinh Tiên Hoàng - Trần Quang Khải",
+        "coord": {
+            "latitude": 10.7927439077816,
+            "longitude": 106.696075201035
+        },
+        "coordinate": "10.7927439077816, 106.696075201035"
+    },
+    {
+        "id": "67e217c43215f90017863bc8",
+        "name": "Nguyễn Thị Định - Đường C (20-1)",
+        "coord": {
+            "latitude": 10.7659102810674,
+            "longitude": 106.77956700325
+        },
+        "coordinate": "10.7659102810674, 106.77956700325"
+    },
+    {
+        "id": "5a8269c45058170011f6eae4",
+        "name": "Nguyễn Văn Quỳ - Cầu Phú Mỹ",
+        "coord": {
+            "latitude": 10.7409610852775,
+            "longitude": 106.7367374897
+        },
+        "coordinate": "10.7409610852775, 106.7367374897"
+    },
+    {
+        "id": "56de42f611f398ec0c481297",
+        "name": "Võ Văn Kiệt - Nguyễn Tri Phương 2",
+        "coord": {
+            "latitude": 10.7503686605855,
+            "longitude": 106.670079231262
+        },
+        "coordinate": "10.7503686605855, 106.670079231262"
+    },
+    {
+        "id": "5822adbbedeb6c0012a2d65f",
+        "name": "Võ Văn Kiệt - Cầu Chữ Y 1",
+        "coord": {
+            "latitude": 10.7519444666594,
+            "longitude": 106.68367266655
+        },
+        "coordinate": "10.7519444666594, 106.68367266655"
+    },
+    {
+        "id": "6623e43e6f998a001b2522cb",
+        "name": "Nguyễn Thị Minh Khai - Bà Huyện Thanh Quan",
+        "coord": {
+            "latitude": 10.7748059039379,
+            "longitude": 106.690624952316
+        },
+        "coordinate": "10.7748059039379, 106.690624952316"
+    },
+    {
+        "id": "5a823e425058170011f6eaa4",
+        "name": "Đinh Tiên Hoàng - Võ Thị Sáu 1",
+        "coord": {
+            "latitude": 10.7917743133057,
+            "longitude": 106.695774793625
+        },
+        "coordinate": "10.7917743133057, 106.695774793625"
+    },
+    {
+        "id": "649da72ca6068200171a6dbb",
+        "name": "Tôn Đức Thắng - Hàm Nghi",
+        "coord": {
+            "latitude": 10.7710748334425,
+            "longitude": 106.70635342598
+        },
+        "coordinate": "10.7710748334425, 106.70635342598"
+    },
+    {
+        "id": "63b65fd8bfd3d90017eaa461",
+        "name": "Lê Văn Duyệt - Vũ Huy Tấn",
+        "coord": {
+            "latitude": 10.7956526724414,
+            "longitude": 106.696085929871
+        },
+        "coordinate": "10.7956526724414, 106.696085929871"
+    },
+    {
+        "id": "5deb576d1dc17d7c5515ad08",
+        "name": "Cộng Hòa - Tân Kỳ Tân Quý",
+        "coord": {
+            "latitude": 10.8041364085074,
+            "longitude": 106.637651324272
+        },
+        "coordinate": "10.8041364085074, 106.637651324272"
+    },
+    {
+        "id": "587c79e9b807da0011e33d3d",
+        "name": "Điện Biên Phủ - Nguyễn Văn Thương 2",
+        "coord": {
+            "latitude": 10.7986878751089,
+            "longitude": 106.718965172768
+        },
+        "coordinate": "10.7986878751089, 106.718965172768"
+    },
+    {
+        "id": "63b65ebebfd3d90017eaa3ae",
+        "name": "Nguyễn Hữu Cảnh - Ngô Tất Tố 2 (Dạ cầu Thủ Thiêm 1)",
+        "coord": {
+            "latitude": 10.7891447995017,
+            "longitude": 106.71642780304
+        },
+        "coordinate": "10.7891447995017, 106.71642780304"
+    },
+    {
+        "id": "5874769eb807da0011e33cec",
+        "name": "Cộng Hòa - Út Tịch 2",
+        "coord": {
+            "latitude": 10.8001053464053,
+            "longitude": 106.657757163048
+        },
+        "coordinate": "10.8001053464053, 106.657757163048"
+    },
+    {
+        "id": "63b660f8bfd3d90017eaa4ea",
+        "name": "Cầu Tân Thuận 2 - Q7 (Q7-Q4)",
+        "coord": {
+            "latitude": 10.7526506780822,
+            "longitude": 106.723862886429
+        },
+        "coordinate": "10.7526506780822, 106.723862886429"
+    },
+    {
+        "id": "58af994abd82540010390c37",
+        "name": "Nguyễn Hữu Cảnh - Tôn Đức Thắng",
+        "coord": {
+            "latitude": 10.7826315159924,
+            "longitude": 106.706235408783
+        },
+        "coordinate": "10.7826315159924, 106.706235408783"
+    },
+    {
+        "id": "56df8108c062921100c143db",
+        "name": "Hoàng Minh Giám - Hồng Hà",
+        "coord": {
+            "latitude": 10.8090315732439,
+            "longitude": 106.674022078514
+        },
+        "coordinate": "10.8090315732439, 106.674022078514"
+    },
+    {
+        "id": "63ae7903bfd3d90017e8f211",
+        "name": "Hậu Giang -  Hẻm 491",
+        "coord": {
+            "latitude": 10.7483923035435,
+            "longitude": 106.636669635773
+        },
+        "coordinate": "10.7483923035435, 106.636669635773"
+    },
+    {
+        "id": "63ae7727bfd3d90017e8f14a",
+        "name": "Hoàng Diệu - Đoàn Văn Bơ 2",
+        "coord": {
+            "latitude": 10.7635071530486,
+            "longitude": 106.703719496727
+        },
+        "coordinate": "10.7635071530486, 106.703719496727"
+    },
+    {
+        "id": "6623f36e6f998a001b252878",
+        "name": "Phạm Văn Đồng - Kha Vạn Cân 2",
+        "coord": {
+            "latitude": 10.8663923069317,
+            "longitude": 106.762282848358
+        },
+        "coordinate": "10.8663923069317, 106.762282848358"
+    },
+    {
+        "id": "5d9ddec9766c880017188c9c",
+        "name": "Nút giao Hàng Xanh 5 (Hàng Xanh - Bạch Đằng)",
+        "coord": {
+            "latitude": 10.8021551350728,
+            "longitude": 106.711503267288
+        },
+        "coordinate": "10.8021551350728, 106.711503267288"
+    },
+    {
+        "id": "5deb576d1dc17d7c5515ad02",
+        "name": "Điện Biên Phủ - Pasteur",
+        "coord": {
+            "latitude": 10.7843441648872,
+            "longitude": 106.691552996635
+        },
+        "coordinate": "10.7843441648872, 106.691552996635"
+    },
+    {
+        "id": "63ae79aabfd3d90017e8f26a",
+        "name": "Cách Mạng Tháng Tám - Trường Sơn",
+        "coord": {
+            "latitude": 10.7858618271433,
+            "longitude": 106.6664904356
+        },
+        "coordinate": "10.7858618271433, 106.6664904356"
+    },
+    {
+        "id": "5d8cd7fb766c880017188954",
+        "name": "Phạm Văn Đồng - Đường 20 (hướng đi Sân bay)",
+        "coord": {
+            "latitude": 10.8291383225836,
+            "longitude": 106.722366213799
+        },
+        "coordinate": "10.8291383225836, 106.722366213799"
+    },
+    {
+        "id": "56de42f611f398ec0c481293",
+        "name": "Võ Văn Kiệt - Hải Thượng Lãn Ông 1",
+        "coord": {
+            "latitude": 10.7499786604875,
+            "longitude": 106.663234233856
+        },
+        "coordinate": "10.7499786604875, 106.663234233856"
+    },
+    {
+        "id": "63b66089bfd3d90017eaa4bd",
+        "name": "Nơ Trang Long - Chu Văn An",
+        "coord": {
+            "latitude": 10.8114079914905,
+            "longitude": 106.695753335953
+        },
+        "coordinate": "10.8114079914905, 106.695753335953"
+    },
+    {
+        "id": "63ae798abfd3d90017e8f255",
+        "name": "Cách Mạng Tháng Tám - Bắc Hải",
+        "coord": {
+            "latitude": 10.7869104851311,
+            "longitude": 106.664623618126
+        },
+        "coordinate": "10.7869104851311, 106.664623618126"
+    },
+    {
+        "id": "6318287ec9eae60017a19f36",
+        "name": "Nguyễn Thị Minh Khai - Đinh Tiên Hoàng 2",
+        "coord": {
+            "latitude": 10.7865626894198,
+            "longitude": 106.701729297638
+        },
+        "coordinate": "10.7865626894198, 106.701729297638"
+    },
+    {
+        "id": "587476e3b807da0011e33cee",
+        "name": "Cộng Hòa - Út Tịch 1",
+        "coord": {
+            "latitude": 10.8010380283306,
+            "longitude": 106.657853722572
+        },
+        "coordinate": "10.8010380283306, 106.657853722572"
+    },
+    {
+        "id": "597bf277faa7ea0011c7c29f",
+        "name": "Cầu Phú Hữu 2",
+        "coord": {
+            "latitude": 10.8208924000834,
+            "longitude": 106.792302131653
+        },
+        "coordinate": "10.8208924000834, 106.792302131653"
+    },
+    {
+        "id": "5d9de49d766c880017188cb9",
+        "name": "Cao tốc LTDG - Đỗ Xuân Hợp 2",
+        "coord": {
+            "latitude": 10.7961796195486,
+            "longitude": 106.778848171234
+        },
+        "coordinate": "10.7961796195486, 106.778848171234"
+    },
+    {
+        "id": "5d9ddf49766c880017188ca0",
+        "name": "Nút giao Hàng Xanh 7 (Hàng Xanh - Cầu Văn Thánh)",
+        "coord": {
+            "latitude": 10.8012277259948,
+            "longitude": 106.712324023247
+        },
+        "coordinate": "10.8012277259948, 106.712324023247"
+    },
+    {
+        "id": "63ae763bbfd3d90017e8f0c4",
+        "name": "Lý Thái Tổ - Nguyễn Đình Chiểu",
+        "coord": {
+            "latitude": 10.7662581006404,
+            "longitude": 106.678780317307
+        },
+        "coordinate": "10.7662581006404, 106.678780317307"
+    },
+    {
+        "id": "5d8cda6a766c880017188960",
+        "name": "Phạm Văn Đồng - Kha Vạn Cân (hướng đi Sân bay)",
+        "coord": {
+            "latitude": 10.8411932946322,
+            "longitude": 106.743823885918
+        },
+        "coordinate": "10.8411932946322, 106.743823885918"
+    },
+    {
+        "id": "662b80e81afb9c00172dcbec",
+        "name": "Cách Mạng Tháng Tám - Sương Nguyệt Anh",
+        "coord": {
+            "latitude": 10.7730352321784,
+            "longitude": 106.690050959587
+        },
+        "coordinate": "10.7730352321784, 106.690050959587"
+    },
+    {
+        "id": "56df84abc062921100c143e5",
+        "name": "Nút giao Nguyễn Thái Sơn 3 (Phạm Văn Đồng)",
+        "coord": {
+            "latitude": 10.8142217306645,
+            "longitude": 106.679236292839
+        },
+        "coordinate": "10.8142217306645, 106.679236292839"
+    },
+    {
+        "id": "662a86a11afb9c00172d2410",
+        "name": "Tùng Thiện Vương - Cao Xuân Dục",
+        "coord": {
+            "latitude": 10.7456043005395,
+            "longitude": 106.65856719017
+        },
+        "coordinate": "10.7456043005395, 106.65856719017"
+    },
+    {
+        "id": "56de42f611f398ec0c48128b",
+        "name": "Võ Văn Kiệt - Nguyễn Văn Cừ 1",
+        "coord": {
+            "latitude": 10.7543213358374,
+            "longitude": 106.68691277504
+        },
+        "coordinate": "10.7543213358374, 106.68691277504"
+    },
+    {
+        "id": "58e49ff8d9d6200011e0b9d4",
+        "name": "Nam Kỳ Khởi Nghĩa - Trần Quốc Toản",
+        "coord": {
+            "latitude": 10.7863150164711,
+            "longitude": 106.687223911285
+        },
+        "coordinate": "10.7863150164711, 106.687223911285"
+    },
+    {
+        "id": "5a8241105058170011f6eaa6",
+        "name": "Đinh Tiên Hoàng - Võ Thị Sáu 2",
+        "coord": {
+            "latitude": 10.7919218604929,
+            "longitude": 106.695785522461
+        },
+        "coordinate": "10.7919218604929, 106.695785522461"
+    },
+    {
+        "id": "65e054fb6b18080018db6632",
+        "name": "Lê Duẩn - Mạc Đĩnh Chi",
+        "coord": {
+            "latitude": 10.7832164525575,
+            "longitude": 106.701187491417
+        },
+        "coordinate": "10.7832164525575, 106.701187491417"
+    },
+    {
+        "id": "5d8cdb0a766c880017188964",
+        "name": "Trường Chinh - Xuân Hồng",
+        "coord": {
+            "latitude": 10.7937134991298,
+            "longitude": 106.651657819748
+        },
+        "coordinate": "10.7937134991298, 106.651657819748"
+    },
+    {
+        "id": "63b5503bbfd3d90017ea7ccc",
+        "name": "Nút giao Mỹ Thủy (7)",
+        "coord": {
+            "latitude": 10.7697468141455,
+            "longitude": 106.775082349777
+        },
+        "coordinate": "10.7697468141455, 106.775082349777"
+    },
+    {
+        "id": "66b1c3fa779f740018674146",
+        "name": "Nguyễn Hữu Cảnh - Ung Văn Khiêm",
+        "coord": {
+            "latitude": 10.7991305062692,
+            "longitude": 106.723707318306
+        },
+        "coordinate": "10.7991305062692, 106.723707318306"
+    },
+    {
+        "id": "5ad0621c98d8fc001102e268",
+        "name": "Lý Tự Trọng - Hai Bà Trưng 2",
+        "coord": {
+            "latitude": 10.779137682017,
+            "longitude": 106.702335476875
+        },
+        "coordinate": "10.779137682017, 106.702335476875"
+    },
+    {
+        "id": "66b1c34d779f74001867409e",
+        "name": "Ba Tháng Hai - Thành Thái",
+        "coord": {
+            "latitude": 10.768197450899,
+            "longitude": 106.666828393936
+        },
+        "coordinate": "10.768197450899, 106.666828393936"
+    },
+    {
+        "id": "56de42f611f398ec0c48128c",
+        "name": "Võ Văn Kiệt - Nguyễn Văn Cừ 2",
+        "coord": {
+            "latitude": 10.7536415,
+            "longitude": 106.6864407
+        },
+        "coordinate": "10.7536415, 106.6864407"
+    },
+    {
+        "id": "662b558c1afb9c00172d8ed2",
+        "name": "625 Quang Trung",
+        "coord": {
+            "latitude": 10.8351289878163,
+            "longitude": 106.663491725922
+        },
+        "coordinate": "10.8351289878163, 106.663491725922"
+    },
+    {
+        "id": "6623f4836f998a001b2528bf",
+        "name": "Võ Nguyên Giáp - Đỗ Xuân Hợp (2)",
+        "coord": {
+            "latitude": 10.8354978023394,
+            "longitude": 106.765801906586
+        },
+        "coordinate": "10.8354978023394, 106.765801906586"
+    },
+    {
+        "id": "662b85bf1afb9c00172dd149",
+        "name": "Nam Kỳ Khởi Nghĩa - Hàm Nghi",
+        "coord": {
+            "latitude": 10.7709694352995,
+            "longitude": 106.701128482819
+        },
+        "coordinate": "10.7709694352995, 106.701128482819"
+    },
+    {
+        "id": "63b3c274bfd3d90017e9ab93",
+        "name": "Hồng Bàng - Phù Đổng Thiên Vương",
+        "coord": {
+            "latitude": 10.7546955197447,
+            "longitude": 106.662520766258
+        },
+        "coordinate": "10.7546955197447, 106.662520766258"
+    },
+    {
+        "id": "5b5995a3fd4edb0019c7d9ab",
+        "name": "Võ Văn Kiệt - Cầu Chà Và 2 (trên cầu)",
+        "coord": {
+            "latitude": 10.7489404145267,
+            "longitude": 106.660348176956
+        },
+        "coordinate": "10.7489404145267, 106.660348176956"
+    },
+    {
+        "id": "662b81a31afb9c00172dcc65",
+        "name": "Nam Kỳ Khởi Nghĩa - Võ Văn Tần",
+        "coord": {
+            "latitude": 10.7805394362678,
+            "longitude": 106.693907976151
+        },
+        "coordinate": "10.7805394362678, 106.693907976151"
+    },
+    {
+        "id": "6318283cc9eae60017a19f0c",
+        "name": "Nguyễn Thị Minh Khai - Đinh Tiên Hoàng 1",
+        "coord": {
+            "latitude": 10.7866101161314,
+            "longitude": 106.701568365097
+        },
+        "coordinate": "10.7866101161314, 106.701568365097"
+    },
+    {
+        "id": "5deb576d1dc17d7c5515acf6",
+        "name": "Nút giao Ngã sáu Cộng Hòa",
+        "coord": {
+            "latitude": 10.765389,
+            "longitude": 106.681205
+        },
+        "coordinate": "10.765389, 106.681205"
+    },
+    {
+        "id": "662b83381afb9c00172dcf88",
+        "name": "Hai Bà Trưng - Nguyễn Đình Chiểu",
+        "coord": {
+            "latitude": 10.7846919631639,
+            "longitude": 106.695957183838
+        },
+        "coordinate": "10.7846919631639, 106.695957183838"
+    },
+    {
+        "id": "5822b5ededeb6c0012a2d66a",
+        "name": "Mai Chí Thọ - Nguyễn Cơ Thạch 1",
+        "coord": {
+            "latitude": 10.7732144077704,
+            "longitude": 106.722586154938
+        },
+        "coordinate": "10.7732144077704, 106.722586154938"
+    },
+    {
+        "id": "63b660d8bfd3d90017eaa4d5",
+        "name": "Cầu Tân Thuận 2 - Q7 (Q4-Q7)",
+        "coord": {
+            "latitude": 10.7527666230832,
+            "longitude": 106.723691225052
+        },
+        "coordinate": "10.7527666230832, 106.723691225052"
+    },
+    {
+        "id": "63ae7be0bfd3d90017e8f3a8",
+        "name": "Ba Tháng Hai - Lê Đại Hành 1",
+        "coord": {
+            "latitude": 10.7621527500863,
+            "longitude": 106.657199263573
+        },
+        "coordinate": "10.7621527500863, 106.657199263573"
+    },
+    {
+        "id": "63b54a04bfd3d90017ea783e",
+        "name": "Lê Văn Việt - Hoàng Hữu Nam",
+        "coord": {
+            "latitude": 10.8502078623705,
+            "longitude": 106.813673973084
+        },
+        "coordinate": "10.8502078623705, 106.813673973084"
+    },
+    {
+        "id": "63b54f70bfd3d90017ea7c86",
+        "name": "Cầu Sài Gòn (10)",
+        "coord": {
+            "latitude": 10.7985614089434,
+            "longitude": 106.726276874542
+        },
+        "coordinate": "10.7985614089434, 106.726276874542"
+    },
+    {
+        "id": "5a8267fe5058170011f6eae1",
+        "name": "Lê Văn Lương - Cầu Rạch Đĩa",
+        "coord": {
+            "latitude": 10.7235786992945,
+            "longitude": 106.697700619698
+        },
+        "coordinate": "10.7235786992945, 106.697700619698"
+    },
+    {
+        "id": "595d984b3dcfc400106f2879",
+        "name": "Quốc lộ 1 - An Phú Đông 13 (1)",
+        "coord": {
+            "latitude": 10.8589534719139,
+            "longitude": 106.711691021919
+        },
+        "coordinate": "10.8589534719139, 106.711691021919"
+    },
+    {
+        "id": "58746122b807da0011e33cc5",
+        "name": "Quốc lộ 1 - ĐH Nông Lâm 2",
+        "coord": {
+            "latitude": 10.8672299545045,
+            "longitude": 106.787940859795
+        },
+        "coordinate": "10.8672299545045, 106.787940859795"
+    },
+    {
+        "id": "662b7f651afb9c00172dc992",
+        "name": "11B Nguyễn Bỉnh Khiêm",
+        "coord": {
+            "latitude": 10.7857353555811,
+            "longitude": 106.706600189209
+        },
+        "coordinate": "10.7857353555811, 106.706600189209"
+    },
+    {
+        "id": "63ae768dbfd3d90017e8f0f1",
+        "name": "Khánh Hội - Vĩnh Hội",
+        "coord": {
+            "latitude": 10.7560025246799,
+            "longitude": 106.701278686523
+        },
+        "coordinate": "10.7560025246799, 106.701278686523"
+    },
+    {
+        "id": "63b54a70bfd3d90017ea7862",
+        "name": "Lã Xuân Oai - Đường D2",
+        "coord": {
+            "latitude": 10.830049838744,
+            "longitude": 106.804490089417
+        },
+        "coordinate": "10.830049838744, 106.804490089417"
+    },
+    {
+        "id": "5deb576d1dc17d7c5515ad0c",
+        "name": "Nút giao Ngã sáu Phù Đổng 1",
+        "coord": {
+            "latitude": 10.771135,
+            "longitude": 106.693342
+        },
+        "coordinate": "10.771135, 106.693342"
+    },
+    {
+        "id": "585b2baec3f96200127dc508",
+        "name": "Nguyễn Văn Linh - Huỳnh Tấn Phát 2",
+        "coord": {
+            "latitude": 10.7525452734972,
+            "longitude": 106.728331446648
+        },
+        "coordinate": "10.7525452734972, 106.728331446648"
+    },
+    {
+        "id": "5a606cd08576340017d06628",
+        "name": "BX Miền Đông - Đinh Bộ Lĩnh 2",
+        "coord": {
+            "latitude": 10.8144114199963,
+            "longitude": 106.71005487442
+        },
+        "coordinate": "10.8144114199963, 106.71005487442"
+    },
+    {
+        "id": "662b80051afb9c00172dcaf6",
+        "name": "Nguyễn Trãi - Nguyễn Cư Trinh",
+        "coord": {
+            "latitude": 10.7625269242757,
+            "longitude": 106.686580181122
+        },
+        "coordinate": "10.7625269242757, 106.686580181122"
+    },
+    {
+        "id": "589d0bceb3bf7600110283d6",
+        "name": "Cầu Sài Gòn 2 (dạ cầu)",
+        "coord": {
+            "latitude": 10.7990303873734,
+            "longitude": 106.727387309074
+        },
+        "coordinate": "10.7990303873734, 106.727387309074"
+    },
+    {
+        "id": "587ee2aeb807da0011e33d52",
+        "name": "Phan Đăng Lưu - Phan Xích Long",
+        "coord": {
+            "latitude": 10.8020392090947,
+            "longitude": 106.683232784271
+        },
+        "coordinate": "10.8020392090947, 106.683232784271"
+    },
+    {
+        "id": "662b58401afb9c00172d90f5",
+        "name": "Hoàng Văn Thụ - Bùi Thị Xuân",
+        "coord": {
+            "latitude": 10.8006480938667,
+            "longitude": 106.661823391914
+        },
+        "coordinate": "10.8006480938667, 106.661823391914"
+    },
+    {
+        "id": "662b867b1afb9c00172dd250",
+        "name": "Trần Hưng Đạo - Ký Con",
+        "coord": {
+            "latitude": 10.7692988698081,
+            "longitude": 106.696676015854
+        },
+        "coordinate": "10.7692988698081, 106.696676015854"
+    },
+    {
+        "id": "597bf0b8faa7ea0011c7c293",
+        "name": "Cầu Phú Hữu 1",
+        "coord": {
+            "latitude": 10.8163926125139,
+            "longitude": 106.791679859161
+        },
+        "coordinate": "10.8163926125139, 106.791679859161"
+    },
+    {
+        "id": "5a10c79f02eb490011a0b0dd",
+        "name": "Mai Chí Thọ - Tố Hữu (C6)",
+        "coord": {
+            "latitude": 10.7713172490313,
+            "longitude": 106.716717481613
+        },
+        "coordinate": "10.7713172490313, 106.716717481613"
+    },
+    {
+        "id": "662b83ff1afb9c00172dcffb",
+        "name": "Lê Duẩn - Phạm Ngọc Thạch",
+        "coord": {
+            "latitude": 10.7805078178228,
+            "longitude": 106.698188781738
+        },
+        "coordinate": "10.7805078178228, 106.698188781738"
+    },
+    {
+        "id": "5deb576d1dc17d7c5515ad19",
+        "name": "Nguyễn Thị Minh Khai - Mạc Đĩnh Chi",
+        "coord": {
+            "latitude": 10.784426,
+            "longitude": 106.699659
+        },
+        "coordinate": "10.784426, 106.699659"
+    },
+    {
+        "id": "5b6329fdfd4edb0019c7dc0b",
+        "name": "Nguyễn Trãi - Nguyễn Văn Cừ",
+        "coord": {
+            "latitude": 10.7596494601112,
+            "longitude": 106.684375405312
+        },
+        "coordinate": "10.7596494601112, 106.684375405312"
+    },
+    {
+        "id": "5deb576d1dc17d7c5515ad01",
+        "name": "Võ Thị Sáu - Hai Bà Trưng",
+        "coord": {
+            "latitude": 10.7878590168447,
+            "longitude": 106.691815853119
+        },
+        "coordinate": "10.7878590168447, 106.691815853119"
+    },
+    {
+        "id": "58abbf72bd82540010390ba4",
+        "name": "Cầu Sài Gòn 9 (Bình Thạnh - Thủ Đức)",
+        "coord": {
+            "latitude": 10.7985614089434,
+            "longitude": 106.726319789886
+        },
+        "coordinate": "10.7985614089434, 106.726319789886"
+    },
+    {
+        "id": "6623f1f16f998a001b25281f",
+        "name": "Phạm Văn Đồng - Đào Trinh Nhất",
+        "coord": {
+            "latitude": 10.865064709737,
+            "longitude": 106.759042739868
+        },
+        "coordinate": "10.865064709737, 106.759042739868"
+    },
+    {
+        "id": "58ad6961bd82540010390be5",
+        "name": "Nút giao Phú Nhuận 1 (Phan Đình Phùng)",
+        "coord": {
+            "latitude": 10.7990461956223,
+            "longitude": 106.680378913879
+        },
+        "coordinate": "10.7990461956223, 106.680378913879"
+    },
+    {
+        "id": "5a606dbc8576340017d0662b",
+        "name": "Điện Biên Phủ - Nguyễn Hữu Cảnh",
+        "coord": {
+            "latitude": 10.7978184191454,
+            "longitude": 106.721127033234
+        },
+        "coordinate": "10.7978184191454, 106.721127033234"
+    },
+    {
+        "id": "662b52a31afb9c00172d8b01",
+        "name": "Lê Đức Thọ - Hẻm 688",
+        "coord": {
+            "latitude": 10.846467192202,
+            "longitude": 106.670604944229
+        },
+        "coordinate": "10.846467192202, 106.670604944229"
+    },
+    {
+        "id": "58abbee5bd82540010390ba2",
+        "name": "Cầu Sài Gòn 5 (dạ cầu Thủ Đức)",
+        "coord": {
+            "latitude": 10.7991621227557,
+            "longitude": 106.729398965836
+        },
+        "coordinate": "10.7991621227557, 106.729398965836"
+    },
+    {
+        "id": "662a8ef41afb9c00172d2af2",
+        "name": "Lê Văn Lương - Đường số 15",
+        "coord": {
+            "latitude": 10.7449876687987,
+            "longitude": 106.704325675964
+        },
+        "coordinate": "10.7449876687987, 106.704325675964"
+    },
+    {
+        "id": "6623f5b56f998a001b25292f",
+        "name": "Võ Nguyên Giáp - quay đầu An Phú (2)",
+        "coord": {
+            "latitude": 10.8022710610062,
+            "longitude": 106.746608018875
+        },
+        "coordinate": "10.8022710610062, 106.746608018875"
+    },
+    {
+        "id": "66b1c398779f7400186740e3",
+        "name": "Ba Tháng Hai - Tạ Uyên",
+        "coord": {
+            "latitude": 10.7601975506409,
+            "longitude": 106.653256416321
+        },
+        "coordinate": "10.7601975506409, 106.653256416321"
+    },
+    {
+        "id": "6623e31e6f998a001b252250",
+        "name": "Kỳ Đồng - Bà Huyện Thanh Quan",
+        "coord": {
+            "latitude": 10.7816671586319,
+            "longitude": 106.681677103043
+        },
+        "coordinate": "10.7816671586319, 106.681677103043"
+    },
+    {
+        "id": "5deb576d1dc17d7c5515acfe",
+        "name": "Lý Chính Thắng - Trương Định",
+        "coord": {
+            "latitude": 10.7825155824841,
+            "longitude": 106.683688759804
+        },
+        "coordinate": "10.7825155824841, 106.683688759804"
+    },
+    {
+        "id": "58df4e22dc195800111e04bb",
+        "name": "Yên Thế - Bạch Đằng",
+        "coord": {
+            "latitude": 10.8141637700114,
+            "longitude": 106.668593287468
+        },
+        "coordinate": "10.8141637700114, 106.668593287468"
+    },
+    {
+        "id": "58e49e3dd9d6200011e0b9d1",
+        "name": "Nam Kỳ Khởi Nghĩa - Lý Chính Thắng",
+        "coord": {
+            "latitude": 10.7886020312638,
+            "longitude": 106.6847884655
+        },
+        "coordinate": "10.7886020312638, 106.6847884655"
+    },
+    {
+        "id": "5d8cdc57766c88001718896e",
+        "name": "Lý Thường Kiệt - Lạc Long Quân",
+        "coord": {
+            "latitude": 10.7904463853615,
+            "longitude": 106.652473211288
+        },
+        "coordinate": "10.7904463853615, 106.652473211288"
+    },
+    {
+        "id": "66f1266f538c780017c93579",
+        "name": "Hùng Vương - Nguyễn Chí Thanh",
+        "coord": {
+            "latitude": 10.760766720521,
+            "longitude": 106.67405962944
+        },
+        "coordinate": "10.760766720521, 106.67405962944"
+    },
+    {
+        "id": "5ad0679598d8fc001102e274",
+        "name": "Lê Văn Việt - Man Thiện",
+        "coord": {
+            "latitude": 10.8452343413582,
+            "longitude": 106.786707043648
+        },
+        "coordinate": "10.8452343413582, 106.786707043648"
+    },
+    {
+        "id": "6623f0576f998a001b2527ac",
+        "name": "Âu Cơ - Thoại Ngọc Hầu",
+        "coord": {
+            "latitude": 10.7859250629045,
+            "longitude": 106.641583442688
+        },
+        "coordinate": "10.7859250629045, 106.641583442688"
+    },
+    {
+        "id": "62da3e840637a10017d7073d",
+        "name": "Quốc Lộ 13 - Đinh Thị Thi 3",
+        "coord": {
+            "latitude": 10.8451078948305,
+            "longitude": 106.71789765358
+        },
+        "coordinate": "10.8451078948305, 106.71789765358"
+    },
+    {
+        "id": "56de42f611f398ec0c481288",
+        "name": "Võ Văn Kiệt - Cầu Ông Lãnh 1",
+        "coord": {
+            "latitude": 10.7637917349984,
+            "longitude": 106.697652339935
+        },
+        "coordinate": "10.7637917349984, 106.697652339935"
+    },
+    {
+        "id": "5d8cd614766c88001718894a",
+        "name": "Lê Quang Định - Nơ Trang Long",
+        "coord": {
+            "latitude": 10.8081937627675,
+            "longitude": 106.69519007206
+        },
+        "coordinate": "10.8081937627675, 106.69519007206"
+    },
+    {
+        "id": "5a824f975058170011f6eab8",
+        "name": "Nguyễn Oanh - Phan Văn Trị (2)",
+        "coord": {
+            "latitude": 10.8310719980749,
+            "longitude": 106.676913499832
+        },
+        "coordinate": "10.8310719980749, 106.676913499832"
+    },
+    {
+        "id": "5deb576d1dc17d7c5515acf9",
+        "name": "Nút giao Công Trường Dân Chủ",
+        "coord": {
+            "latitude": 10.777768,
+            "longitude": 106.68202
+        },
+        "coordinate": "10.777768, 106.68202"
+    },
+    {
+        "id": "587470c2b807da0011e33ce4",
+        "name": "Nguyễn Hữu Cảnh - Ngô Tất Tố (Cầu Thủ Thiêm 1)",
+        "coord": {
+            "latitude": 10.7892027649838,
+            "longitude": 106.715097427368
+        },
+        "coordinate": "10.7892027649838, 106.715097427368"
+    },
+    {
+        "id": "67e217ea3215f90017863bf1",
+        "name": "Nguyễn Thị Định - Đường C (20-2)",
+        "coord": {
+            "latitude": 10.7660631109292,
+            "longitude": 106.779545545578
+        },
+        "coordinate": "10.7660631109292, 106.779545545578"
+    },
+    {
+        "id": "662b7f251afb9c00172dc8bc",
+        "name": "Nam Kỳ Khởi Nghĩa - Nguyễn Du",
+        "coord": {
+            "latitude": 10.7767873576075,
+            "longitude": 106.697995662689
+        },
+        "coordinate": "10.7767873576075, 106.697995662689"
+    },
+    {
+        "id": "6623ec826f998a001b252686",
+        "name": "Nguyễn Oanh - Lê Đức Thọ",
+        "coord": {
+            "latitude": 10.8419361769392,
+            "longitude": 106.676613092422
+        },
+        "coordinate": "10.8419361769392, 106.676613092422"
+    },
+    {
+        "id": "5deb576d1dc17d7c5515ad23",
+        "name": "Ba Tháng Hai - Lý Thường Kiệt",
+        "coord": {
+            "latitude": 10.763649,
+            "longitude": 106.659903
+        },
+        "coordinate": "10.763649, 106.659903"
+    },
+    {
+        "id": "587efb60b807da0011e33d5d",
+        "name": "Phạm Văn Đồng - Lê Quang Định 1",
+        "coord": {
+            "latitude": 10.8192748027252,
+            "longitude": 106.689192652702
+        },
+        "coordinate": "10.8192748027252, 106.689192652702"
+    },
+    {
+        "id": "5701e22bc4350a1100e26f6c",
+        "name": "Nguyễn Công Trứ - Calmette 1",
+        "coord": {
+            "latitude": 10.7671171078657,
+            "longitude": 106.699680089951
+        },
+        "coordinate": "10.7671171078657, 106.699680089951"
+    },
+    {
+        "id": "5b87c386ca057700116404a6",
+        "name": "Đường hầm (Đầu hầm Tp Thủ Đức)",
+        "coord": {
+            "latitude": 10.7710432140034,
+            "longitude": 106.715902090073
+        },
+        "coordinate": "10.7710432140034, 106.715902090073"
+    },
+    {
+        "id": "5d8cd542766c880017188948",
+        "name": "Võ Văn Ngân - Đặng Văn Bi",
+        "coord": {
+            "latitude": 10.8511456568495,
+            "longitude": 106.757980585098
+        },
+        "coordinate": "10.8511456568495, 106.757980585098"
+    },
+    {
+        "id": "6623e8406f998a001b252465",
+        "name": "Phan Đăng Lưu - Hoàng Hoa Thám",
+        "coord": {
+            "latitude": 10.8031773894881,
+            "longitude": 106.692352294922
+        },
+        "coordinate": "10.8031773894881, 106.692352294922"
+    },
+    {
+        "id": "5a823d555058170011f6eaa2",
+        "name": "Lý Tự Trọng - Hai Bà Trưng 1",
+        "coord": {
+            "latitude": 10.7791113331904,
+            "longitude": 106.702115535736
+        },
+        "coordinate": "10.7791113331904, 106.702115535736"
+    },
+    {
+        "id": "595da2853dcfc400106f2883",
+        "name": "Quốc lộ 1 - Đường 15 (1)",
+        "coord": {
+            "latitude": 10.8601019727034,
+            "longitude": 106.698827147484
+        },
+        "coordinate": "10.8601019727034, 106.698827147484"
+    },
+    {
+        "id": "587c8183b807da0011e33d3f",
+        "name": "Hoàng Văn Thụ - Trần Quốc Hoàn",
+        "coord": {
+            "latitude": 10.8013067666529,
+            "longitude": 106.662268638611
+        },
+        "coordinate": "10.8013067666529, 106.662268638611"
+    },
+    {
+        "id": "5b632950fd4edb0019c7dc07",
+        "name": "Nguyễn Văn Cừ - Trần Hưng Đạo 3",
+        "coord": {
+            "latitude": 10.7568773715932,
+            "longitude": 106.684874296188
+        },
+        "coordinate": "10.7568773715932, 106.684874296188"
+    },
+    {
+        "id": "5deb576d1dc17d7c5515ad06",
+        "name": "Đinh Tiên Hoàng - Nguyễn Đình Chiểu",
+        "coord": {
+            "latitude": 10.788566,
+            "longitude": 106.699558
+        },
+        "coordinate": "10.788566, 106.699558"
+    },
+    {
+        "id": "662b54711afb9c00172d8d4f",
+        "name": "90 Nguyễn Thái Sơn",
+        "coord": {
+            "latitude": 10.8160870038835,
+            "longitude": 106.680099964142
+        },
+        "coordinate": "10.8160870038835, 106.680099964142"
+    },
+    {
+        "id": "5a8279865058170011f6eaef",
+        "name": "Nguyễn Văn Linh - Phạm Hùng 2",
+        "coord": {
+            "latitude": 10.7275738904052,
+            "longitude": 106.677889823914
+        },
+        "coordinate": "10.7275738904052, 106.677889823914"
+    },
+    {
+        "id": "662b4faa1afb9c00172d875e",
+        "name": "Tháp Mười - Phạm Đình Hổ",
+        "coord": {
+            "latitude": 10.7497256871815,
+            "longitude": 106.649479866028
+        },
+        "coordinate": "10.7497256871815, 106.649479866028"
+    },
+    {
+        "id": "56de42f611f398ec0c4812a1",
+        "name": "Nút giao Mỹ Thủy 1",
+        "coord": {
+            "latitude": 10.769926,
+            "longitude": 106.7747069
+        },
+        "coordinate": "10.769926, 106.7747069"
+    },
+    {
+        "id": "63ae7669bfd3d90017e8f0d9",
+        "name": "Khánh Hội - Cầu Kênh Tẻ",
+        "coord": {
+            "latitude": 10.7528720275909,
+            "longitude": 106.702179908752
+        },
+        "coordinate": "10.7528720275909, 106.702179908752"
+    },
+    {
+        "id": "63b65e6abfd3d90017eaa361",
+        "name": "Nguyễn Thị Định - Thân Văn Nhiếp",
+        "coord": {
+            "latitude": 10.7903304548658,
+            "longitude": 106.754236221313
+        },
+        "coordinate": "10.7903304548658, 106.754236221313"
+    },
+    {
+        "id": "662a8fd41afb9c00172d2bac",
+        "name": "Nguyễn Lương Bằng - Phạm Hữu Lầu",
+        "coord": {
+            "latitude": 10.7045402040992,
+            "longitude": 106.732370853424
+        },
+        "coordinate": "10.7045402040992, 106.732370853424"
+    },
+    {
+        "id": "56f11afc3ac17b11001c504e",
+        "name": "Trường Sơn - Phan Đình Giót",
+        "coord": {
+            "latitude": 10.8048741133609,
+            "longitude": 106.664215922356
+        },
+        "coordinate": "10.8048741133609, 106.664215922356"
+    },
+    {
+        "id": "585b2b1ec3f96200127dc505",
+        "name": "Nguyễn Văn Linh - Huỳnh Tấn Phát 1",
+        "coord": {
+            "latitude": 10.7528825680397,
+            "longitude": 106.728594303131
+        },
+        "coordinate": "10.7528825680397, 106.728594303131"
+    },
+    {
+        "id": "5a825b7d5058170011f6ead4",
+        "name": "Nguyễn Văn Linh - Nguyễn Hữu Thọ (3)",
+        "coord": {
+            "latitude": 10.7282010989927,
+            "longitude": 106.700441837311
+        },
+        "coordinate": "10.7282010989927, 106.700441837311"
+    },
+    {
+        "id": "5a6069238576340017d0661c",
+        "name": "Bạch Đằng - Lê Quang Định",
+        "coord": {
+            "latitude": 10.8026188385378,
+            "longitude": 106.698435544968
+        },
+        "coordinate": "10.8026188385378, 106.698435544968"
+    },
+    {
+        "id": "662b857b1afb9c00172dd106",
+        "name": "Điện Biên Phủ - Nguyễn Bỉnh Khiêm",
+        "coord": {
+            "latitude": 10.7920852162229,
+            "longitude": 106.699739098549
+        },
+        "coordinate": "10.7920852162229, 106.699739098549"
+    },
+    {
+        "id": "63ae75f9bfd3d90017e8f097",
+        "name": "Cao Thắng – Võ Văn Tần 2",
+        "coord": {
+            "latitude": 10.769072262419,
+            "longitude": 106.683275699615
+        },
+        "coordinate": "10.769072262419, 106.683275699615"
+    },
+    {
+        "id": "63ae7829bfd3d90017e8f1ac",
+        "name": "Nguyễn Tất Thành - Cầu Tân Thuận 1",
+        "coord": {
+            "latitude": 10.7564346782916,
+            "longitude": 106.719351410866
+        },
+        "coordinate": "10.7564346782916, 106.719351410866"
+    },
+    {
+        "id": "65e0556b6b18080018db665e",
+        "name": "Nguyễn Thái Học - Phạm Ngũ Lão",
+        "coord": {
+            "latitude": 10.7689774034613,
+            "longitude": 106.694637537003
+        },
+        "coordinate": "10.7689774034613, 106.694637537003"
+    },
+    {
+        "id": "662b81eb1afb9c00172dcc85",
+        "name": "Nguyễn Thị Minh Khai - Nguyễn Bỉnh Khiêm 2",
+        "coord": {
+            "latitude": 10.7882331590867,
+            "longitude": 106.703939437866
+        },
+        "coordinate": "10.7882331590867, 106.703939437866"
+    },
+    {
+        "id": "595dd9ac3dcfc400106f28b4",
+        "name": "Quốc lộ 1 - BQB Trước UBND Q12 (hướng đi An Sương)",
+        "coord": {
+            "latitude": 10.8619827649163,
+            "longitude": 106.653299331665
+        },
+        "coordinate": "10.8619827649163, 106.653299331665"
+    },
+    {
+        "id": "63b54d27bfd3d90017ea7ae5",
+        "name": "Xa lộ Hà Nội - Đường D1",
+        "coord": {
+            "latitude": 10.8581948267685,
+            "longitude": 106.787774562836
+        },
+        "coordinate": "10.8581948267685, 106.787774562836"
+    },
+    {
+        "id": "662a8cc51afb9c00172d2938",
+        "name": "Huỳnh Tấn Phát - Phú Thuận",
+        "coord": {
+            "latitude": 10.7307995207108,
+            "longitude": 106.732006072998
+        },
+        "coordinate": "10.7307995207108, 106.732006072998"
+    },
+    {
+        "id": "587654d3b807da0011e33d36",
+        "name": "Võ Chí Công - Đường số 2",
+        "coord": {
+            "latitude": 10.7625480044979,
+            "longitude": 106.767582893372
+        },
+        "coordinate": "10.7625480044979, 106.767582893372"
+    },
+    {
+        "id": "5990ffdbbec3b90016d2ad2d",
+        "name": "Đường hầm (Đầu hầm Tp Thủ Đức)",
+        "coord": {
+            "latitude": 10.7705847317646,
+            "longitude": 106.713402271271
+        },
+        "coordinate": "10.7705847317646, 106.713402271271"
+    },
+    {
+        "id": "58744f1fb807da0011e33cbd",
+        "name": "Hưng Phú - Chánh Hưng 1",
+        "coord": {
+            "latitude": 10.7459679545654,
+            "longitude": 106.668984889984
+        },
+        "coordinate": "10.7459679545654, 106.668984889984"
+    },
+    {
+        "id": "5d8cd8e2766c880017188958",
+        "name": "Phạm Văn Đồng - Hiệp Bình (hướng đi Sân bay)",
+        "coord": {
+            "latitude": 10.8374050930507,
+            "longitude": 106.732848286629
+        },
+        "coordinate": "10.8374050930507, 106.732848286629"
+    },
+    {
+        "id": "586e2995f9fab7001111b0b5",
+        "name": "Ung Văn Khiêm - Nguyễn Gia Trí (D2)",
+        "coord": {
+            "latitude": 10.8075192972885,
+            "longitude": 106.716395616531
+        },
+        "coordinate": "10.8075192972885, 106.716395616531"
+    },
+    {
+        "id": "5d8cd98d766c88001718895a",
+        "name": "Phạm Văn Đồng - Tô Ngọc Vân (hướng đi Bình Dương)",
+        "coord": {
+            "latitude": 10.8533952979021,
+            "longitude": 106.751462817192
+        },
+        "coordinate": "10.8533952979021, 106.751462817192"
+    },
+    {
+        "id": "6623ee666f998a001b252726",
+        "name": "Quang Trung - Phan Huy Ích",
+        "coord": {
+            "latitude": 10.8442965283387,
+            "longitude": 106.640124320984
+        },
+        "coordinate": "10.8442965283387, 106.640124320984"
+    },
+    {
+        "id": "662b84c11afb9c00172dd0b5",
+        "name": "Nguyễn Thị Minh Khai - Phạm Ngọc Thạch",
+        "coord": {
+            "latitude": 10.7817830924671,
+            "longitude": 106.696933507919
+        },
+        "coordinate": "10.7817830924671, 106.696933507919"
+    },
+    {
+        "id": "56df8198c062921100c143dd",
+        "name": "Nút giao Thủ Đức (Võ Văn Ngân)",
+        "coord": {
+            "latitude": 10.8492753334826,
+            "longitude": 106.773784160614
+        },
+        "coordinate": "10.8492753334826, 106.773784160614"
+    },
+    {
+        "id": "56de42f611f398ec0c481282",
+        "name": "Mai Chí Thọ - Đồng Văn Cống 2",
+        "coord": {
+            "latitude": 10.7876851195878,
+            "longitude": 106.74994468689
+        },
+        "coordinate": "10.7876851195878, 106.74994468689"
+    },
+    {
+        "id": "5a6066608576340017d06617",
+        "name": "Quang Trung - Tân Sơn",
+        "coord": {
+            "latitude": 10.839438820585,
+            "longitude": 106.647216081619
+        },
+        "coordinate": "10.839438820585, 106.647216081619"
+    },
+    {
+        "id": "6623ea416f998a001b25260a",
+        "name": "Phan Đình Phùng - Nguyễn Trọng Tuyển",
+        "coord": {
+            "latitude": 10.7971913554037,
+            "longitude": 106.681151390076
+        },
+        "coordinate": "10.7971913554037, 106.681151390076"
+    },
+    {
+        "id": "662b872d1afb9c00172dd36a",
+        "name": "Lê Văn Sỹ - Trần Quang Diệu",
+        "coord": {
+            "latitude": 10.7878115903301,
+            "longitude": 106.677889823914
+        },
+        "coordinate": "10.7878115903301, 106.677889823914"
+    },
+    {
+        "id": "6623e4b06f998a001b2522f1",
+        "name": "Nguyễn Thị Minh Khai - Nguyễn Thượng Hiền",
+        "coord": {
+            "latitude": 10.7703792050172,
+            "longitude": 106.686387062073
+        },
+        "coordinate": "10.7703792050172, 106.686387062073"
+    },
+    {
+        "id": "56de42f611f398ec0c48127e",
+        "name": "Mai Chí Thọ - Võ Nguyên Giáp (Cát Lái cầu B)",
+        "coord": {
+            "latitude": 10.8062546704304,
+            "longitude": 106.754064559937
+        },
+        "coordinate": "10.8062546704304, 106.754064559937"
+    },
+    {
+        "id": "595dd3a63dcfc400106f28a7",
+        "name": "Quốc lộ 1 - Đường Tô Ngọc Vân 1",
+        "coord": {
+            "latitude": 10.8617667641718,
+            "longitude": 106.671018004417
+        },
+        "coordinate": "10.8617667641718, 106.671018004417"
+    },
+    {
+        "id": "56f8d743025e9511002786c5",
+        "name": "Trường Sơn - Ga Quốc Nội 1",
+        "coord": {
+            "latitude": 10.8128675561166,
+            "longitude": 106.664929389954
+        },
+        "coordinate": "10.8128675561166, 106.664929389954"
+    },
+    {
+        "id": "5a8266105058170011f6eadf",
+        "name": "Nguyễn Văn Linh - Quốc lộ 50 (2)",
+        "coord": {
+            "latitude": 10.7190774577163,
+            "longitude": 106.655761599541
+        },
+        "coordinate": "10.7190774577163, 106.655761599541"
+    },
+    {
+        "id": "585b2980c3f96200127dc502",
+        "name": "Huỳnh Tấn Phát - Lưu Trọng Lư 2",
+        "coord": {
+            "latitude": 10.755127675229,
+            "longitude": 106.727993488312
+        },
+        "coordinate": "10.755127675229, 106.727993488312"
+    },
+    {
+        "id": "56de42f611f398ec0c481284",
+        "name": "Nguyễn Thị Minh Khai - Nguyễn Thiện Thuật",
+        "coord": {
+            "latitude": 10.7664899801327,
+            "longitude": 106.682481765747
+        },
+        "coordinate": "10.7664899801327, 106.682481765747"
+    },
+    {
+        "id": "662b56c51afb9c00172d9071",
+        "name": "Bạch Đằng - Đặng Văn Sâm",
+        "coord": {
+            "latitude": 10.8146485314923,
+            "longitude": 106.671742200851
+        },
+        "coordinate": "10.8146485314923, 106.671742200851"
+    },
+    {
+        "id": "63ae7a08bfd3d90017e8f285",
+        "name": "Ba Tháng Hai - Lê Hồng Phong 1",
+        "coord": {
+            "latitude": 10.7710959130666,
+            "longitude": 106.673265695572
+        },
+        "coordinate": "10.7710959130666, 106.673265695572"
+    },
+    {
+        "id": "662a8b061afb9c00172d27d7",
+        "name": "Nguyễn Văn Linh - đường số 1",
+        "coord": {
+            "latitude": 10.7232729964823,
+            "longitude": 106.660873889923
+        },
+        "coordinate": "10.7232729964823, 106.660873889923"
+    },
+    {
+        "id": "587ee7d7b807da0011e33d55",
+        "name": "Phan Đăng Lưu - Nơ Trang Long",
+        "coord": {
+            "latitude": 10.8031879281753,
+            "longitude": 106.694852113724
+        },
+        "coordinate": "10.8031879281753, 106.694852113724"
+    },
+    {
+        "id": "5deb576d1dc17d7c5515ad17",
+        "name": "Nguyễn Thị Minh Khai - Hai Bà Trưng",
+        "coord": {
+            "latitude": 10.782987,
+            "longitude": 106.698076
+        },
+        "coordinate": "10.782987, 106.698076"
+    },
+    {
+        "id": "63ae7893bfd3d90017e8f1e1",
+        "name": "Nguyễn Tất Thành - Lê Văn Linh",
+        "coord": {
+            "latitude": 10.7643450880206,
+            "longitude": 106.707345843315
+        },
+        "coordinate": "10.7643450880206, 106.707345843315"
+    },
+    {
+        "id": "5a823ba75058170011f6ea9e",
+        "name": "Trần Hưng Đạo - Nguyễn Thái Học 1",
+        "coord": {
+            "latitude": 10.7682501504601,
+            "longitude": 106.695769429207
+        },
+        "coordinate": "10.7682501504601, 106.695769429207"
+    },
+    {
+        "id": "662b5a401afb9c00172d91fc",
+        "name": "Trường Chinh - Nguyễn Hồng Đào",
+        "coord": {
+            "latitude": 10.7980239271457,
+            "longitude": 106.6437292099
+        },
+        "coordinate": "10.7980239271457, 106.6437292099"
+    },
+    {
+        "id": "56df8544c062921100c143e6",
+        "name": "Trường Sơn - Ga Quốc Tế",
+        "coord": {
+            "latitude": 10.8136315853096,
+            "longitude": 106.665363907814
+        },
+        "coordinate": "10.8136315853096, 106.665363907814"
+    },
+    {
+        "id": "66b1c1f2779f740018673f0d",
+        "name": "An Dương Vương - Nguyễn Văn Cừ",
+        "coord": {
+            "latitude": 10.7611040058688,
+            "longitude": 106.683179140091
+        },
+        "coordinate": "10.7611040058688, 106.683179140091"
+    },
+    {
+        "id": "5a60604f8576340017d0660b",
+        "name": "Nguyễn Thái Sơn - Nguyễn Văn Nghi 2",
+        "coord": {
+            "latitude": 10.8243172516762,
+            "longitude": 106.686376333237
+        },
+        "coordinate": "10.8243172516762, 106.686376333237"
+    },
+    {
+        "id": "5d8cd9cb766c88001718895c",
+        "name": "Phạm Văn Đồng - Tô Ngọc Vân (hướng đi Sân bay)",
+        "coord": {
+            "latitude": 10.8536007677866,
+            "longitude": 106.751317977905
+        },
+        "coordinate": "10.8536007677866, 106.751317977905"
+    },
+    {
+        "id": "6623e6b86f998a001b2523b8",
+        "name": "Lý Thái Tổ - Hồ Thị Kỷ",
+        "coord": {
+            "latitude": 10.7669642785384,
+            "longitude": 106.676344871521
+        },
+        "coordinate": "10.7669642785384, 106.676344871521"
+    },
+    {
+        "id": "5a8256315058170011f6eac9",
+        "name": "Đinh Bộ Lĩnh - Nguyễn Xí",
+        "coord": {
+            "latitude": 10.8133575888573,
+            "longitude": 106.709566712379
+        },
+        "coordinate": "10.8133575888573, 106.709566712379"
+    },
+    {
+        "id": "5ad064b498d8fc001102e26f",
+        "name": "Lã Xuân Oai - Cầu Tăng Long (2)",
+        "coord": {
+            "latitude": 10.827699912827,
+            "longitude": 106.805992126465
+        },
+        "coordinate": "10.827699912827, 106.805992126465"
+    },
+    {
+        "id": "58af8d68bd82540010390c2e",
+        "name": "Nam Kỳ Khởi Nghĩa - Điện Biên Phủ 2",
+        "coord": {
+            "latitude": 10.7833376554873,
+            "longitude": 106.690700054169
+        },
+        "coordinate": "10.7833376554873, 106.690700054169"
+    },
+    {
+        "id": "65e0552f6b18080018db6647",
+        "name": "Lê Lai - Phan Chu Trinh",
+        "coord": {
+            "latitude": 10.7717072215258,
+            "longitude": 106.697888374329
+        },
+        "coordinate": "10.7717072215258, 106.697888374329"
+    },
+    {
+        "id": "595da7783dcfc400106f2888",
+        "name": "Quốc lộ 1 - Đường Vườn Lài 1",
+        "coord": {
+            "latitude": 10.8607341730882,
+            "longitude": 106.691998243332
+        },
+        "coordinate": "10.8607341730882, 106.691998243332"
+    },
+    {
+        "id": "662a8e121afb9c00172d2a3f",
+        "name": "Huỳnh Tấn Phát - cầu Tân Thuận 1",
+        "coord": {
+            "latitude": 10.7554228054478,
+            "longitude": 106.723868250847
+        },
+        "coordinate": "10.7554228054478, 106.723868250847"
+    },
+    {
+        "id": "5b728aafca0577001163ff7e",
+        "name": "Hồng Bàng - Châu Văn Liêm",
+        "coord": {
+            "latitude": 10.7548430851016,
+            "longitude": 106.658910512924
+        },
+        "coordinate": "10.7548430851016, 106.658910512924"
+    },
+    {
+        "id": "662b4efc1afb9c00172d86bc",
+        "name": "Trần Hưng Đạo - Trần Phú",
+        "coord": {
+            "latitude": 10.7525663544172,
+            "longitude": 106.667847633362
+        },
+        "coordinate": "10.7525663544172, 106.667847633362"
+    },
+    {
+        "id": "662b87551afb9c00172dd43a",
+        "name": "Trần Quốc Thảo - Kỳ Đồng",
+        "coord": {
+            "latitude": 10.7848974801384,
+            "longitude": 106.683104038239
+        },
+        "coordinate": "10.7848974801384, 106.683104038239"
+    },
+    {
+        "id": "5deb576d1dc17d7c5515ad21",
+        "name": "Nút giao Ngã sáu Nguyễn Tri Phương",
+        "coord": {
+            "latitude": 10.759539,
+            "longitude": 106.668851
+        },
+        "coordinate": "10.759539, 106.668851"
+    },
+    {
+        "id": "56de42f611f398ec0c481289",
+        "name": "Võ Văn Kiệt - Cầu Ông Lãnh 2",
+        "coord": {
+            "latitude": 10.7639024056841,
+            "longitude": 106.698285341263
+        },
+        "coordinate": "10.7639024056841, 106.698285341263"
+    },
+    {
+        "id": "58ad69c4bd82540010390be7",
+        "name": "Nút giao Phú Nhuận 2 (Phan Đăng Lưu)",
+        "coord": {
+            "latitude": 10.7993096663153,
+            "longitude": 106.680368185043
+        },
+        "coordinate": "10.7993096663153, 106.680368185043"
+    },
+    {
+        "id": "6623f5876f998a001b25291a",
+        "name": "Võ Nguyên Giáp - quay đầu An Phú (1)",
+        "coord": {
+            "latitude": 10.8021340576256,
+            "longitude": 106.745932102203
+        },
+        "coordinate": "10.8021340576256, 106.745932102203"
+    },
+    {
+        "id": "6623e2e16f998a001b252233",
+        "name": "Hai Bà Trưng - Trần Quốc Toản",
+        "coord": {
+            "latitude": 10.7899088890498,
+            "longitude": 106.689380407333
+        },
+        "coordinate": "10.7899088890498, 106.689380407333"
+    },
+    {
+        "id": "63b54898bfd3d90017ea77ae",
+        "name": "Nguyễn Duy Trinh - Bưng Ông Thoàn",
+        "coord": {
+            "latitude": 10.7912052020479,
+            "longitude": 106.796894073486
+        },
+        "coordinate": "10.7912052020479, 106.796894073486"
+    },
+    {
+        "id": "63b549b8bfd3d90017ea782c",
+        "name": "Đỗ Xuân Hợp - Tây Hòa",
+        "coord": {
+            "latitude": 10.8244331690453,
+            "longitude": 106.769192218781
+        },
+        "coordinate": "10.8244331690453, 106.769192218781"
+    },
+    {
+        "id": "662b5b271afb9c00172d9296",
+        "name": "Trường Chinh - Tân Hải",
+        "coord": {
+            "latitude": 10.7999419950356,
+            "longitude": 106.640210151672
+        },
+        "coordinate": "10.7999419950356, 106.640210151672"
+    },
+    {
+        "id": "5a823bd55058170011f6eaa0",
+        "name": "Trần Hưng Đạo - Nguyễn Thái Học 2",
+        "coord": {
+            "latitude": 10.7675334356397,
+            "longitude": 106.695860624313
+        },
+        "coordinate": "10.7675334356397, 106.695860624313"
+    },
+    {
+        "id": "595dd7693dcfc400106f28b0",
+        "name": "Quốc lộ 1 - Đường Lê Thị Riêng 1",
+        "coord": {
+            "latitude": 10.8619248135124,
+            "longitude": 106.65426492691
+        },
+        "coordinate": "10.8619248135124, 106.65426492691"
+    },
+    {
+        "id": "6623e88c6f998a001b25248b",
+        "name": "Hoàng Minh Giám - Đăng Văn Sâm",
+        "coord": {
+            "latitude": 10.8111972234488,
+            "longitude": 106.676033735275
+        },
+        "coordinate": "10.8111972234488, 106.676033735275"
+    },
+    {
+        "id": "63b54996bfd3d90017ea781a",
+        "name": "Đỗ Xuân Hợp - Dương Đình Hội",
+        "coord": {
+            "latitude": 10.8167087590452,
+            "longitude": 106.774277687073
+        },
+        "coordinate": "10.8167087590452, 106.774277687073"
+    },
+    {
+        "id": "56de42f611f398ec0c481283",
+        "name": "Mai Chí Thọ - Trần Não 1",
+        "coord": {
+            "latitude": 10.775796632403,
+            "longitude": 106.72761797905
+        },
+        "coordinate": "10.775796632403, 106.72761797905"
+    },
+    {
+        "id": "5d8cdcf0766c880017188972",
+        "name": "Nút giao Lê Đại Hành 1 (Bình Thới)",
+        "coord": {
+            "latitude": 10.7688034952946,
+            "longitude": 106.651834845543
+        },
+        "coordinate": "10.7688034952946, 106.651834845543"
+    },
+    {
+        "id": "67e217643215f90017863b73",
+        "name": "Nguyễn Thị Định - Cổng A (20)",
+        "coord": {
+            "latitude": 10.7601553898663,
+            "longitude": 106.786760687828
+        },
+        "coordinate": "10.7601553898663, 106.786760687828"
+    },
+    {
+        "id": "58af9670bd82540010390c34",
+        "name": "Phạm Văn Đồng - Phan Văn Trị 1",
+        "coord": {
+            "latitude": 10.8212296179772,
+            "longitude": 106.693714857101
+        },
+        "coordinate": "10.8212296179772, 106.693714857101"
+    },
+    {
+        "id": "662b50571afb9c00172d87df",
+        "name": "Quốc Lộ 50 - Bùi Minh Trực",
+        "coord": {
+            "latitude": 10.7375142028136,
+            "longitude": 106.656239032745
+        },
+        "coordinate": "10.7375142028136, 106.656239032745"
+    },
+    {
+        "id": "56df8274c062921100c143df",
+        "name": "Võ Nguyên Giáp - Tây Hòa 1",
+        "coord": {
+            "latitude": 10.8264933293527,
+            "longitude": 106.761032938957
+        },
+        "coordinate": "10.8264933293527, 106.761032938957"
+    },
+    {
+        "id": "6623f0246f998a001b252797",
+        "name": "Âu Cơ - Lũy Bán Bích",
+        "coord": {
+            "latitude": 10.7957475229889,
+            "longitude": 106.638236045837
+        },
+        "coordinate": "10.7957475229889, 106.638236045837"
+    },
+    {
+        "id": "595da7d93dcfc400106f288a",
+        "name": "Quốc lộ 1 - Đường Vườn Lài 2",
+        "coord": {
+            "latitude": 10.8605550497817,
+            "longitude": 106.692035794258
+        },
+        "coordinate": "10.8605550497817, 106.692035794258"
+    },
+    {
+        "id": "6623f3436f998a001b252863",
+        "name": "Phạm Văn Đồng - Kha Vạn Cân 1",
+        "coord": {
+            "latitude": 10.8664976715355,
+            "longitude": 106.761660575867
+        },
+        "coordinate": "10.8664976715355, 106.761660575867"
+    },
+    {
+        "id": "68ae7f327d735d00173c74e4",
+        "name": "Cầu Bình Triệu (2) hướng đi xòng xoay",
+        "coord": {
+            "latitude": 10.8244858587438,
+            "longitude": 106.713847517967
+        },
+        "coordinate": "10.8244858587438, 106.713847517967"
+    },
+    {
+        "id": "662a8cfe1afb9c00172d296e",
+        "name": "Huỳnh Tấn Phát - Trần Trọng Cung",
+        "coord": {
+            "latitude": 10.7433433113335,
+            "longitude": 106.729581356049
+        },
+        "coordinate": "10.7433433113335, 106.729581356049"
+    },
+    {
+        "id": "5d8cd326766c88001718893e",
+        "name": "Nút giao Cây Gõ 3 (dạ cầu)",
+        "coord": {
+            "latitude": 10.75418958083,
+            "longitude": 106.643235683441
+        },
+        "coordinate": "10.75418958083, 106.643235683441"
+    },
+    {
+        "id": "63ae76afbfd3d90017e8f106",
+        "name": "Khánh Hội - Đường số 41",
+        "coord": {
+            "latitude": 10.7579524811918,
+            "longitude": 106.699776649475
+        },
+        "coordinate": "10.7579524811918, 106.699776649475"
+    },
+    {
+        "id": "63b661a3bfd3d90017eaa520",
+        "name": "Nguyễn Tất Thành - Cảng SG (Q4-Q7)",
+        "coord": {
+            "latitude": 10.7596125693667,
+            "longitude": 106.713321805
+        },
+        "coordinate": "10.7596125693667, 106.713321805"
+    },
+    {
+        "id": "583f926761cfea0012cf68f1",
+        "name": "Nguyễn Thị Định - Cổng A Cảng Cát Lái",
+        "coord": {
+            "latitude": 10.7599709364081,
+            "longitude": 106.786578297615
+        },
+        "coordinate": "10.7599709364081, 106.786578297615"
+    },
+    {
+        "id": "6878bab06145d3001ba517f7",
+        "name": "Mai Chí Thọ - Trần Quý Kiên (1)",
+        "coord": {
+            "latitude": 10.7820887360004,
+            "longitude": 106.739709377289
+        },
+        "coordinate": "10.7820887360004, 106.739709377289"
+    },
+    {
+        "id": "56df81d8c062921100c143de",
+        "name": "Nút giao Thủ Đức (trên cầu)",
+        "coord": {
+            "latitude": 10.8491804998734,
+            "longitude": 106.774009466171
+        },
+        "coordinate": "10.8491804998734, 106.774009466171"
+    },
+    {
+        "id": "63ae73cebfd3d90017e8f00d",
+        "name": "Nguyễn Thị Minh Khai - Cống Quỳnh",
+        "coord": {
+            "latitude": 10.7684240589462,
+            "longitude": 106.684364676476
+        },
+        "coordinate": "10.7684240589462, 106.684364676476"
+    },
+    {
+        "id": "6623e7526f998a001b252407",
+        "name": "Ba Tháng Hai - cầu vượt Nguyễn Tri Phương",
+        "coord": {
+            "latitude": 10.7692092808607,
+            "longitude": 106.669843196869
+        },
+        "coordinate": "10.7692092808607, 106.669843196869"
+    },
+    {
+        "id": "586e2492f9fab7001111b0ab",
+        "name": "Nguyễn Văn Trỗi - Nguyễn Đình Chính",
+        "coord": {
+            "latitude": 10.7955947082032,
+            "longitude": 106.675336360931
+        },
+        "coordinate": "10.7955947082032, 106.675336360931"
+    },
+    {
+        "id": "662b571d1afb9c00172d9083",
+        "name": "Cách Mạng Tháng Tám - Phạm Văn Hai (2)",
+        "coord": {
+            "latitude": 10.7892923479795,
+            "longitude": 106.660181879997
+        },
+        "coordinate": "10.7892923479795, 106.660181879997"
+    },
+    {
+        "id": "5b0b7aba0e517b00119fd800",
+        "name": "Nguyễn Văn Cừ - Trần Hưng Đạo 1",
+        "coord": {
+            "latitude": 10.7562818435485,
+            "longitude": 106.685163974762
+        },
+        "coordinate": "10.7562818435485, 106.685163974762"
+    },
+    {
+        "id": "63b54909bfd3d90017ea77e4",
+        "name": "Nguyễn Duy Trinh - Võ Chí Công 2",
+        "coord": {
+            "latitude": 10.7909838807122,
+            "longitude": 106.792902946472
+        },
+        "coordinate": "10.7909838807122, 106.792902946472"
+    },
+    {
+        "id": "595ddbbf3dcfc400106f28b8",
+        "name": "Quốc lộ 1 - Cầu vượt Tân Thới Hiệp 3",
+        "coord": {
+            "latitude": 10.8618299839181,
+            "longitude": 106.649796366692
+        },
+        "coordinate": "10.8618299839181, 106.649796366692"
+    },
+    {
+        "id": "662a8ddd1afb9c00172d2a0f",
+        "name": "Nguyễn Văn Linh - cầu Tân Thuận 2",
+        "coord": {
+            "latitude": 10.752102573838,
+            "longitude": 106.725064516068
+        },
+        "coordinate": "10.752102573838, 106.725064516068"
+    },
+    {
+        "id": "5d9de43b766c880017188cb6",
+        "name": "Cao tốc LTDG - Đỗ Xuân Hợp 1",
+        "coord": {
+            "latitude": 10.7965537514336,
+            "longitude": 106.778896450996
+        },
+        "coordinate": "10.7965537514336, 106.778896450996"
+    },
+    {
+        "id": "5d8cd3b7766c880017188942",
+        "name": "Lê Hồng Phong - Nguyễn Trãi",
+        "coord": {
+            "latitude": 10.7573411448313,
+            "longitude": 106.678184866905
+        },
+        "coordinate": "10.7573411448313, 106.678184866905"
+    },
+    {
+        "id": "662b57711afb9c00172d90a7",
+        "name": "Cộng Hòa - Đường A4",
+        "coord": {
+            "latitude": 10.8017125083701,
+            "longitude": 106.649898290634
+        },
+        "coordinate": "10.8017125083701, 106.649898290634"
+    },
+    {
+        "id": "63b54968bfd3d90017ea7808",
+        "name": "Nguyễn Duy Trinh - Đỗ Xuân Hợp",
+        "coord": {
+            "latitude": 10.7904358462274,
+            "longitude": 106.781616210938
+        },
+        "coordinate": "10.7904358462274, 106.781616210938"
+    },
+    {
+        "id": "56de42f611f398ec0c48127f",
+        "name": "Mai Chí Thọ - Lương Định Của 1",
+        "coord": {
+            "latitude": 10.791531914198,
+            "longitude": 106.751103401184
+        },
+        "coordinate": "10.791531914198, 106.751103401184"
+    },
+    {
+        "id": "58df5016dc195800111e04bd",
+        "name": "Yên Thế - Hồng Hà",
+        "coord": {
+            "latitude": 10.8133259738659,
+            "longitude": 106.668566465378
+        },
+        "coordinate": "10.8133259738659, 106.668566465378"
+    },
+    {
+        "id": "5d8cdac3766c880017188962",
+        "name": "Trường Chinh - Đồng Đen",
+        "coord": {
+            "latitude": 10.7970385413523,
+            "longitude": 106.645912528038
+        },
+        "coordinate": "10.7970385413523, 106.645912528038"
+    },
+    {
+        "id": "587ef5dfb807da0011e33d59",
+        "name": "Nguyễn Văn Trỗi - Huỳnh Văn Bánh",
+        "coord": {
+            "latitude": 10.7928914544929,
+            "longitude": 106.679853200912
+        },
+        "coordinate": "10.7928914544929, 106.679853200912"
+    },
+    {
+        "id": "68fae32b6b936b001721878b",
+        "name": "Võ Chí Công - Cầu Ngọn Ngay (1)",
+        "coord": {
+            "latitude": 10.7832480707178,
+            "longitude": 106.788783073425
+        },
+        "coordinate": "10.7832480707178, 106.788783073425"
+    },
+    {
+        "id": "595dc2f03dcfc400106f2896",
+        "name": "Quốc lộ 1 - Rạch Láng Le 2",
+        "coord": {
+            "latitude": 10.8610924193788,
+            "longitude": 106.686226129532
+        },
+        "coordinate": "10.8610924193788, 106.686226129532"
+    },
+    {
+        "id": "662b85f51afb9c00172dd1c2",
+        "name": "Nguyễn Thị Nghĩa - Lê Lai",
+        "coord": {
+            "latitude": 10.7698416728609,
+            "longitude": 106.694197654724
+        },
+        "coordinate": "10.7698416728609, 106.694197654724"
+    },
+    {
+        "id": "5d8cdbdc766c88001718896a",
+        "name": "Hoàng Văn Thụ - Cộng Hòa",
+        "coord": {
+            "latitude": 10.8006744408059,
+            "longitude": 106.660782694817
+        },
+        "coordinate": "10.8006744408059, 106.660782694817"
+    },
+    {
+        "id": "63b54d5abfd3d90017ea7afe",
+        "name": "Đường số 1 - Cảng Phước Long",
+        "coord": {
+            "latitude": 10.8266672041268,
+            "longitude": 106.755888462067
+        },
+        "coordinate": "10.8266672041268, 106.755888462067"
+    },
+    {
+        "id": "5deb576d1dc17d7c5515ad13",
+        "name": "Pasteur - Lê Thánh Tôn",
+        "coord": {
+            "latitude": 10.775708,
+            "longitude": 106.700359
+        },
+        "coordinate": "10.775708, 106.700359"
+    },
+    {
+        "id": "662b862a1afb9c00172dd1ff",
+        "name": "Hàm Nghi - Phó Đức Chính",
+        "coord": {
+            "latitude": 10.7711749616441,
+            "longitude": 106.699524521828
+        },
+        "coordinate": "10.7711749616441, 106.699524521828"
+    },
+    {
+        "id": "5deb576d1dc17d7c5515acf2",
+        "name": "Điện Biên Phủ - Cách Mạng Tháng Tám",
+        "coord": {
+            "latitude": 10.7765712954739,
+            "longitude": 106.683694124222
+        },
+        "coordinate": "10.7765712954739, 106.683694124222"
+    },
+    {
+        "id": "5a824e465058170011f6eab4",
+        "name": "Quang Trung - Lê Văn Thọ (2)",
+        "coord": {
+            "latitude": 10.8366990807787,
+            "longitude": 106.658325791359
+        },
+        "coordinate": "10.8366990807787, 106.658325791359"
+    },
+    {
+        "id": "662b57471afb9c00172d9095",
+        "name": "Cộng Hòa - Ấp Bắc",
+        "coord": {
+            "latitude": 10.8023975256098,
+            "longitude": 106.641572713852
+        },
+        "coordinate": "10.8023975256098, 106.641572713852"
+    },
+    {
+        "id": "56de42f611f398ec0c481291",
+        "name": "Võ Văn Kiệt - Nguyễn Tri Phương 1",
+        "coord": {
+            "latitude": 10.7503370389747,
+            "longitude": 106.668738126755
+        },
+        "coordinate": "10.7503370389747, 106.668738126755"
+    },
+    {
+        "id": "63b54c93bfd3d90017ea7ab8",
+        "name": "Lê Văn Chí - Linh Trung",
+        "coord": {
+            "latitude": 10.8589007882855,
+            "longitude": 106.777850389481
+        },
+        "coordinate": "10.8589007882855, 106.777850389481"
+    },
+    {
+        "id": "595f874d3dcfc400106f28ec",
+        "name": "Quốc lộ 1 - Nguyễn Văn Quá 2",
+        "coord": {
+            "latitude": 10.8566669938921,
+            "longitude": 106.639571785927
+        },
+        "coordinate": "10.8566669938921, 106.639571785927"
+    },
+    {
+        "id": "5b19d34faf4ff60011d6ea52",
+        "name": "Nguyễn Tất Thành - Tôn Đản",
+        "coord": {
+            "latitude": 10.7625638146636,
+            "longitude": 106.708472371101
+        },
+        "coordinate": "10.7625638146636, 106.708472371101"
+    },
+    {
+        "id": "63b3c9bfbfd3d90017e9b039",
+        "name": "Kha Vạn Cân - Đường Số 2",
+        "coord": {
+            "latitude": 10.8418834903115,
+            "longitude": 106.746854782104
+        },
+        "coordinate": "10.8418834903115, 106.746854782104"
+    },
+    {
+        "id": "5deb576d1dc17d7c5515acf4",
+        "name": "Nút giao Ngã bảy Lý Thái Tổ",
+        "coord": {
+            "latitude": 10.767465,
+            "longitude": 106.674156
+        },
+        "coordinate": "10.767465, 106.674156"
+    },
+    {
+        "id": "58af99abbd82540010390c39",
+        "name": "Nguyễn Hữu Cảnh - Nguyễn Bỉnh Khiêm",
+        "coord": {
+            "latitude": 10.7846234574745,
+            "longitude": 106.707914471626
+        },
+        "coordinate": "10.7846234574745, 106.707914471626"
+    },
+    {
+        "id": "6623ecc16f998a001b25269e",
+        "name": "Nguyễn Oanh - Nguyễn Văn Lượng",
+        "coord": {
+            "latitude": 10.838553676621,
+            "longitude": 106.675518751144
+        },
+        "coordinate": "10.838553676621, 106.675518751144"
+    },
+    {
+        "id": "6623e3ea6f998a001b2522ae",
+        "name": "Nguyễn Đình Chiểu - Cao Thắng",
+        "coord": {
+            "latitude": 10.7700419300508,
+            "longitude": 106.682138442993
+        },
+        "coordinate": "10.7700419300508, 106.682138442993"
+    },
+    {
+        "id": "662b7d0c1afb9c00172dc6a6",
+        "name": "Cống Quỳnh - Bùi Viện",
+        "coord": {
+            "latitude": 10.7652778808151,
+            "longitude": 106.690131425858
+        },
+        "coordinate": "10.7652778808151, 106.690131425858"
+    },
+    {
+        "id": "662b54bb1afb9c00172d8dbb",
+        "name": "Phạm Văn Chiêu - Đường số 59",
+        "coord": {
+            "latitude": 10.8502078623705,
+            "longitude": 106.652623414993
+        },
+        "coordinate": "10.8502078623705, 106.652623414993"
+    },
+    {
+        "id": "662b58bd1afb9c00172d9119",
+        "name": "Lê Văn Sỹ - Đặng Văn Ngữ",
+        "coord": {
+            "latitude": 10.7937556552044,
+            "longitude": 106.66899561882
+        },
+        "coordinate": "10.7937556552044, 106.66899561882"
+    },
+    {
+        "id": "595f86c43dcfc400106f28ea",
+        "name": "Quốc lộ 1 - Nguyễn Văn Quá 1",
+        "coord": {
+            "latitude": 10.8566248466676,
+            "longitude": 106.639485955238
+        },
+        "coordinate": "10.8566248466676, 106.639485955238"
+    },
+    {
+        "id": "5a82439f5058170011f6eaa9",
+        "name": "Nguyễn Biểu - Cầu Chữ Y",
+        "coord": {
+            "latitude": 10.75113811876,
+            "longitude": 106.68364584446
+        },
+        "coordinate": "10.75113811876, 106.68364584446"
+    },
+    {
+        "id": "6623e5d66f998a001b25235a",
+        "name": "Cách Mạng Tháng Tám - Đỗ Thị Lời",
+        "coord": {
+            "latitude": 10.783880433226,
+            "longitude": 106.670325994492
+        },
+        "coordinate": "10.783880433226, 106.670325994492"
+    },
+    {
+        "id": "58d7c20ac1e33c00112b321c",
+        "name": "Phạm Văn Đồng - Phan Văn Trị 2",
+        "coord": {
+            "latitude": 10.8207659432755,
+            "longitude": 106.69480919838
+        },
+        "coordinate": "10.8207659432755, 106.69480919838"
+    },
+    {
+        "id": "589d0b74b3bf7600110283d4",
+        "name": "Cầu Sài Gòn 4 (Thủ Đức 1)",
+        "coord": {
+            "latitude": 10.7997417577515,
+            "longitude": 106.730428934097
+        },
+        "coordinate": "10.7997417577515, 106.730428934097"
+    },
+    {
+        "id": "56df807bc062921100c143da",
+        "name": "Trường Chinh - Âu Cơ",
+        "coord": {
+            "latitude": 10.8019180137061,
+            "longitude": 106.63648724556
+        },
+        "coordinate": "10.8019180137061, 106.63648724556"
+    },
+    {
+        "id": "662b82a61afb9c00172dcdfd",
+        "name": "Trần Quang Khải - Trần Nhật Duật",
+        "coord": {
+            "latitude": 10.7916478442304,
+            "longitude": 106.689380407333
+        },
+        "coordinate": "10.7916478442304, 106.689380407333"
+    },
+    {
+        "id": "63ae7a74bfd3d90017e8f2c7",
+        "name": "Tô Hiến Thành – Sư Vạn Hạnh",
+        "coord": {
+            "latitude": 10.7778940148849,
+            "longitude": 106.665540933609
+        },
+        "coordinate": "10.7778940148849, 106.665540933609"
+    },
+    {
+        "id": "59d3414302eb490011a0a610",
+        "name": "Xa Lộ Hà Nội - Đường 120",
+        "coord": {
+            "latitude": 10.8674828287814,
+            "longitude": 106.803814172745
+        },
+        "coordinate": "10.8674828287814, 106.803814172745"
+    },
+    {
+        "id": "6623e9e96f998a001b2525ce",
+        "name": "Phan Đình Phùng - Huynh Văn Bánh",
+        "coord": {
+            "latitude": 10.7958634513952,
+            "longitude": 106.681923866272
+        },
+        "coordinate": "10.7958634513952, 106.681923866272"
+    },
+    {
+        "id": "63ae7a9cbfd3d90017e8f303",
+        "name": "Điện Biên Phủ – Cao Thắng",
+        "coord": {
+            "latitude": 10.7727295794518,
+            "longitude": 106.679091453552
+        },
+        "coordinate": "10.7727295794518, 106.679091453552"
+    },
+    {
+        "id": "5a606a0f8576340017d0661e",
+        "name": "Nơ Trang Long - Nguyễn Xí",
+        "coord": {
+            "latitude": 10.8200809679719,
+            "longitude": 106.704116463661
+        },
+        "coordinate": "10.8200809679719, 106.704116463661"
+    },
+    {
+        "id": "56de42f611f398ec0c481286",
+        "name": "Mai Chí Thọ - Nguyễn Cơ Thạch 2",
+        "coord": {
+            "latitude": 10.7733830435244,
+            "longitude": 106.722918748856
+        },
+        "coordinate": "10.7733830435244, 106.722918748856"
+    },
+    {
+        "id": "662b4f411afb9c00172d86fc",
+        "name": "Hậu Giang - Minh Phụng",
+        "coord": {
+            "latitude": 10.7497836602495,
+            "longitude": 106.642361283302
+        },
+        "coordinate": "10.7497836602495, 106.642361283302"
+    },
+    {
+        "id": "662b843d1afb9c00172dd02d",
+        "name": "Lê Thánh Tôn - Đồng Khởi",
+        "coord": {
+            "latitude": 10.7771984022141,
+            "longitude": 106.701825857162
+        },
+        "coordinate": "10.7771984022141, 106.701825857162"
+    },
+    {
+        "id": "595d9b3b3dcfc400106f287e",
+        "name": "Quốc lộ 1 - An Phú Đông 12 (1)",
+        "coord": {
+            "latitude": 10.8592853785591,
+            "longitude": 106.70542538166
+        },
+        "coordinate": "10.8592853785591, 106.70542538166"
+    },
+    {
+        "id": "5deb576d1dc17d7c5515ad1a",
+        "name": "Pasteur - Lê Duẩn",
+        "coord": {
+            "latitude": 10.779127,
+            "longitude": 106.697417
+        },
+        "coordinate": "10.779127, 106.697417"
+    },
+    {
+        "id": "5deb576d1dc17d7c5515ad0b",
+        "name": "Nam Kỳ Khởi Nghĩa - Lý Tự Trọng",
+        "coord": {
+            "latitude": 10.775615,
+            "longitude": 106.699042
+        },
+        "coordinate": "10.775615, 106.699042"
+    },
+    {
+        "id": "662b4e581afb9c00172d862f",
+        "name": "Lê Hồng Phong - Trần Phú",
+        "coord": {
+            "latitude": 10.7604188946108,
+            "longitude": 106.677095890045
+        },
+        "coordinate": "10.7604188946108, 106.677095890045"
+    },
+    {
+        "id": "63b54c51bfd3d90017ea7aa0",
+        "name": "Đường số 1 - Nguyễn Văn Bá",
+        "coord": {
+            "latitude": 10.8266882798502,
+            "longitude": 106.760228276253
+        },
+        "coordinate": "10.8266882798502, 106.760228276253"
+    },
+    {
+        "id": "58ad6214bd82540010390be2",
+        "name": "Cộng Hòa - Hoàng Hoa Thám",
+        "coord": {
+            "latitude": 10.8013120360293,
+            "longitude": 106.647366285324
+        },
+        "coordinate": "10.8013120360293, 106.647366285324"
+    },
+    {
+        "id": "5deb576d1dc17d7c5515ad09",
+        "name": "Trường Chinh - Hoàng Hoa Thám",
+        "coord": {
+            "latitude": 10.7964536316791,
+            "longitude": 106.647017598152
+        },
+        "coordinate": "10.7964536316791, 106.647017598152"
+    },
+    {
+        "id": "58af8a0bbd82540010390c25",
+        "name": "Nam Kỳ Khởi Nghĩa - Võ Thị Sáu",
+        "coord": {
+            "latitude": 10.784533873088,
+            "longitude": 106.688543558121
+        },
+        "coordinate": "10.784533873088, 106.688543558121"
+    },
+    {
+        "id": "56de42f611f398ec0c48128e",
+        "name": "Võ Văn Kiệt - Cầu Chữ Y 2",
+        "coord": {
+            "latitude": 10.7514332528817,
+            "longitude": 106.684101819992
+        },
+        "coordinate": "10.7514332528817, 106.684101819992"
+    },
+    {
+        "id": "587ef859b807da0011e33d5b",
+        "name": "Phạm Văn Đồng - Lê Quang Định 2",
+        "coord": {
+            "latitude": 10.8200546227367,
+            "longitude": 106.689868569374
+        },
+        "coordinate": "10.8200546227367, 106.689868569374"
+    },
+    {
+        "id": "58744e97b807da0011e33cb9",
+        "name": "Dương Bá Trạc - Hẻm 219",
+        "coord": {
+            "latitude": 10.7469851294422,
+            "longitude": 106.689042448998
+        },
+        "coordinate": "10.7469851294422, 106.689042448998"
+    },
+    {
+        "id": "63b54a48bfd3d90017ea7850",
+        "name": "Lã Xuân Oai - Lò Lu",
+        "coord": {
+            "latitude": 10.8243804793376,
+            "longitude": 106.808009147644
+        },
+        "coordinate": "10.8243804793376, 106.808009147644"
+    },
+    {
+        "id": "58c2717ed56e930010a39ac0",
+        "name": "Quốc Lộ 50 - Cầu Nhị Thiên Đường 2",
+        "coord": {
+            "latitude": 10.7418073259385,
+            "longitude": 106.656062516536
+        },
+        "coordinate": "10.7418073259385, 106.656062516536"
+    },
+    {
+        "id": "5b6005b6fd4edb0019c7db25",
+        "name": "Trần Hưng Đạo - Nguyễn Biểu",
+        "coord": {
+            "latitude": 10.7561079280569,
+            "longitude": 106.683527827263
+        },
+        "coordinate": "10.7561079280569, 106.683527827263"
+    },
+    {
+        "id": "662b85481afb9c00172dd0f1",
+        "name": "Võ Văn Kiệt - Pasteur",
+        "coord": {
+            "latitude": 10.7687191761474,
+            "longitude": 106.703091859818
+        },
+        "coordinate": "10.7687191761474, 106.703091859818"
+    },
+    {
+        "id": "66b1c4e7779f7400186741e4",
+        "name": "Hoàng Văn Thụ - Phạm Văn Hai",
+        "coord": {
+            "latitude": 10.8004004325254,
+            "longitude": 106.665455102921
+        },
+        "coordinate": "10.8004004325254, 106.665455102921"
+    },
+    {
+        "id": "587c8661b807da0011e33d43",
+        "name": "Lê Văn Sỹ - Hoàng Văn Thụ",
+        "coord": {
+            "latitude": 10.7999683420367,
+            "longitude": 106.660519838333
+        },
+        "coordinate": "10.7999683420367, 106.660519838333"
+    },
+    {
+        "id": "5b632a79fd4edb0019c7dc0f",
+        "name": "Nguyễn Tri Phương - Trần Hưng Đạo",
+        "coord": {
+            "latitude": 10.7524240581789,
+            "longitude": 106.669510602951
+        },
+        "coordinate": "10.7524240581789, 106.669510602951"
+    },
+    {
+        "id": "595dd4133dcfc400106f28a9",
+        "name": "Quốc lộ 1 - Đường Tô Ngọc Vân 2",
+        "coord": {
+            "latitude": 10.8619616916798,
+            "longitude": 106.671023368835
+        },
+        "coordinate": "10.8619616916798, 106.671023368835"
+    },
+    {
+        "id": "58af9a07bd82540010390c3b",
+        "name": "Tôn Đức Thắng - Lê Duẩn",
+        "coord": {
+            "latitude": 10.7852927046947,
+            "longitude": 106.703263521194
+        },
+        "coordinate": "10.7852927046947, 106.703263521194"
+    },
+    {
+        "id": "63ae75debfd3d90017e8f082",
+        "name": "Cao Thắng – Võ Văn Tần 1",
+        "coord": {
+            "latitude": 10.7685031082248,
+            "longitude": 106.683892607689
+        },
+        "coordinate": "10.7685031082248, 106.683892607689"
+    },
+    {
+        "id": "6623eb466f998a001b252632",
+        "name": "Hà Huy Giáp - An Lộc",
+        "coord": {
+            "latitude": 10.8536955999934,
+            "longitude": 106.679220199585
+        },
+        "coordinate": "10.8536955999934, 106.679220199585"
+    },
+    {
+        "id": "5a824dc05058170011f6eab2",
+        "name": "Quang Trung - Lê Văn Thọ (1)",
+        "coord": {
+            "latitude": 10.8366042431825,
+            "longitude": 106.658180952072
+        },
+        "coordinate": "10.8366042431825, 106.658180952072"
+    },
+    {
+        "id": "662b836d1afb9c00172dcfa0",
+        "name": "Lê Duẩn - Nguyễn Bỉnh Khiêm",
+        "coord": {
+            "latitude": 10.7873373247725,
+            "longitude": 106.704819202423
+        },
+        "coordinate": "10.7873373247725, 106.704819202423"
+    },
+    {
+        "id": "5a606c078576340017d06624",
+        "name": "Quốc lộ 13 - Hiệp Bình",
+        "coord": {
+            "latitude": 10.8495545656016,
+            "longitude": 106.718916893005
+        },
+        "coordinate": "10.8495545656016, 106.718916893005"
+    },
+    {
+        "id": "5deb576d1dc17d7c5515acf3",
+        "name": "Ba Tháng Hai - Lý Thái Tổ",
+        "coord": {
+            "latitude": 10.768198,
+            "longitude": 106.668459
+        },
+        "coordinate": "10.768198, 106.668459"
+    },
+    {
+        "id": "5a8254b05058170011f6eac3",
+        "name": "Xô Viết Nghệ Tĩnh - Nguyễn Xí 1",
+        "coord": {
+            "latitude": 10.809674419948,
+            "longitude": 106.712254285812
+        },
+        "coordinate": "10.809674419948, 106.712254285812"
+    },
+    {
+        "id": "63ae77bfbfd3d90017e8f18f",
+        "name": "Nguyễn Tất Thành - Cầu Tân Thuận 2",
+        "coord": {
+            "latitude": 10.757040746338,
+            "longitude": 106.717768907547
+        },
+        "coordinate": "10.757040746338, 106.717768907547"
+    },
+    {
+        "id": "6623f51a6f998a001b252900",
+        "name": "Quốc Lộ 13 - Nguyễn Thị Nhung",
+        "coord": {
+            "latitude": 10.8403450366927,
+            "longitude": 106.716363430023
+        },
+        "coordinate": "10.8403450366927, 106.716363430023"
+    },
+    {
+        "id": "5deb576d1dc17d7c5515ad0a",
+        "name": "Hoàng Văn Thụ - Xuân Diệu",
+        "coord": {
+            "latitude": 10.795418,
+            "longitude": 106.655729
+        },
+        "coordinate": "10.795418, 106.655729"
+    },
+    {
+        "id": "58744e3eb807da0011e33cb7",
+        "name": "Dương Bá Trạc - Hẻm 288",
+        "coord": {
+            "latitude": 10.7444131987789,
+            "longitude": 106.688919067383
+        },
+        "coordinate": "10.7444131987789, 106.688919067383"
+    },
+    {
+        "id": "58744dd9b807da0011e33cb5",
+        "name": "Quốc lộ 50 - Tạ Quang Bửu",
+        "coord": {
+            "latitude": 10.7341621509602,
+            "longitude": 106.656190752983
+        },
+        "coordinate": "10.7341621509602, 106.656190752983"
+    },
+    {
+        "id": "56de42f611f398ec0c481290",
+        "name": "Võ Văn Kiệt - An Bình",
+        "coord": {
+            "latitude": 10.7493356862526,
+            "longitude": 106.673292517662
+        },
+        "coordinate": "10.7493356862526, 106.673292517662"
+    },
+    {
+        "id": "58af8b69bd82540010390c28",
+        "name": "Nam Kỳ Khởi Nghĩa - Điện Biên Phủ 1",
+        "coord": {
+            "latitude": 10.7832744191822,
+            "longitude": 106.69091463089
+        },
+        "coordinate": "10.7832744191822, 106.69091463089"
+    },
+    {
+        "id": "6623e3a26f998a001b252291",
+        "name": "Lý Chính Thắng - Trần Quốc Thảo",
+        "coord": {
+            "latitude": 10.7843863222755,
+            "longitude": 106.684466600418
+        },
+        "coordinate": "10.7843863222755, 106.684466600418"
+    },
+    {
+        "id": "595dcab53dcfc400106f289d",
+        "name": "Quốc lộ 1 - BQB Trước bến xe Ngã 4 Ga (hướng đi Bình Phước)",
+        "coord": {
+            "latitude": 10.861629788009,
+            "longitude": 106.678490638733
+        },
+        "coordinate": "10.861629788009, 106.678490638733"
+    },
+    {
+        "id": "58ad7291bd82540010390bf9",
+        "name": "Phan Đăng Lưu - Nguyễn Văn Đậu",
+        "coord": {
+            "latitude": 10.8038413260585,
+            "longitude": 106.687197089195
+        },
+        "coordinate": "10.8038413260585, 106.687197089195"
+    },
+    {
+        "id": "5deb576d1dc17d7c5515ad05",
+        "name": "Điện Biên Phủ - Đinh Tiên Hoàng",
+        "coord": {
+            "latitude": 10.790705,
+            "longitude": 106.697491
+        },
+        "coordinate": "10.790705, 106.697491"
+    },
+    {
+        "id": "595dd4f43dcfc400106f28ab",
+        "name": "Quốc lộ 1 - Cầu Bến Cát 1",
+        "coord": {
+            "latitude": 10.8616403246391,
+            "longitude": 106.663309335709
+        },
+        "coordinate": "10.8616403246391, 106.663309335709"
+    },
+    {
+        "id": "662b84771afb9c00172dd076",
+        "name": "Nguyễn Du - Công xã Paris",
+        "coord": {
+            "latitude": 10.7790322866967,
+            "longitude": 106.700012683868
+        },
+        "coordinate": "10.7790322866967, 106.700012683868"
+    },
+    {
+        "id": "665861d864f11e00173c73a9",
+        "name": "Huỳnh Tấn Phát - Cầu Tân Thuận 1",
+        "coord": {
+            "latitude": 10.7554702370632,
+            "longitude": 106.723374724388
+        },
+        "coordinate": "10.7554702370632, 106.723374724388"
+    },
+    {
+        "id": "5a824ee15058170011f6eab6",
+        "name": "Nguyễn Oanh - Phan Văn Trị (1)",
+        "coord": {
+            "latitude": 10.8306083386046,
+            "longitude": 106.67790055275
+        },
+        "coordinate": "10.8306083386046, 106.67790055275"
+    },
+    {
+        "id": "6623ed396f998a001b2526b8",
+        "name": "Nguyễn Thái Sơn - Phạm Ngũ Lão",
+        "coord": {
+            "latitude": 10.820344420197,
+            "longitude": 106.683468818665
+        },
+        "coordinate": "10.820344420197, 106.683468818665"
+    },
+    {
+        "id": "5b632b60fd4edb0019c7dc12",
+        "name": "Hồng Bàng - Ngô Quyền 1",
+        "coord": {
+            "latitude": 10.7557179353779,
+            "longitude": 106.666420698166
+        },
+        "coordinate": "10.7557179353779, 106.666420698166"
+    },
+    {
+        "id": "587c8d97b807da0011e33d49",
+        "name": "Hoàng Văn Thụ - Nguyễn Văn Trỗi 2",
+        "coord": {
+            "latitude": 10.8001000770077,
+            "longitude": 106.669188737869
+        },
+        "coordinate": "10.8001000770077, 106.669188737869"
+    },
+    {
+        "id": "59414c883dcfc400106f260b",
+        "name": "Cộng Hòa - Bình Giã",
+        "coord": {
+            "latitude": 10.8018653200436,
+            "longitude": 106.645107865334
+        },
+        "coordinate": "10.8018653200436, 106.645107865334"
+    },
+    {
+        "id": "56df82d4c062921100c143e0",
+        "name": "Võ Nguyên Giáp - Tây Hòa 2",
+        "coord": {
+            "latitude": 10.8264933293527,
+            "longitude": 106.760866641998
+        },
+        "coordinate": "10.8264933293527, 106.760866641998"
+    },
+    {
+        "id": "58affc6017139d0010f35cc8",
+        "name": "Phạm Văn Đồng - Quốc Lộ 13 (1)",
+        "coord": {
+            "latitude": 10.8262720340397,
+            "longitude": 106.714013814926
+        },
+        "coordinate": "10.8262720340397, 106.714013814926"
+    },
+    {
+        "id": "5deb576d1dc17d7c5515ad1c",
+        "name": "Hoàng Diệu - Nguyễn Tất Thành",
+        "coord": {
+            "latitude": 10.7652936908376,
+            "longitude": 106.707260012627
+        },
+        "coordinate": "10.7652936908376, 106.707260012627"
+    },
+    {
+        "id": "56de42f611f398ec0c481287",
+        "name": "Võ Văn Kiệt - Ký Con",
+        "coord": {
+            "latitude": 10.7654781410386,
+            "longitude": 106.700146794319
+        },
+        "coordinate": "10.7654781410386, 106.700146794319"
+    },
+    {
+        "id": "662a861e1afb9c00172d23ad",
+        "name": "Nguyễn Hữu Thọ - Phạm Hữu Lầu",
+        "coord": {
+            "latitude": 10.6954843759884,
+            "longitude": 106.718187332153
+        },
+        "coordinate": "10.6954843759884, 106.718187332153"
+    },
+    {
+        "id": "662b5a9c1afb9c00172d9240",
+        "name": "Trường Chinh - Nguyễn Thái Bình",
+        "coord": {
+            "latitude": 10.7946620093783,
+            "longitude": 106.650145053864
+        },
+        "coordinate": "10.7946620093783, 106.650145053864"
+    },
+    {
+        "id": "662b4e201afb9c00172d85f9",
+        "name": "Hồng Bàng - Tạ Uyên",
+        "coord": {
+            "latitude": 10.7537258027461,
+            "longitude": 106.653825044632
+        },
+        "coordinate": "10.7537258027461, 106.653825044632"
+    },
+    {
+        "id": "5d8cdb4b766c880017188966",
+        "name": "Hoàng Văn Thụ - Út Tịch",
+        "coord": {
+            "latitude": 10.7980555437486,
+            "longitude": 106.658374071121
+        },
+        "coordinate": "10.7980555437486, 106.658374071121"
+    },
+    {
+        "id": "63b66051bfd3d90017eaa4a3",
+        "name": "Nơ Trang Long - Phan Văn Trị",
+        "coord": {
+            "latitude": 10.8112288386645,
+            "longitude": 106.695485115051
+        },
+        "coordinate": "10.8112288386645, 106.695485115051"
+    },
+    {
+        "id": "62da3e390637a10017d706ff",
+        "name": "Quốc Lộ 13 - Đinh Thị Thi 1",
+        "coord": {
+            "latitude": 10.8444440496827,
+            "longitude": 106.718230247498
+        },
+        "coordinate": "10.8444440496827, 106.718230247498"
+    },
+    {
+        "id": "5deb576d1dc17d7c5515ad10",
+        "name": "Cách Mạng Tháng Tám - Nguyễn Thị Minh Khai",
+        "coord": {
+            "latitude": 10.773652,
+            "longitude": 106.689579
+        },
+        "coordinate": "10.773652, 106.689579"
+    },
+    {
+        "id": "56f11ac33ac17b11001c504c",
+        "name": "Nguyễn Văn Trỗi - Hoàng Văn Thụ 1",
+        "coord": {
+            "latitude": 10.7996311002478,
+            "longitude": 106.668410897255
+        },
+        "coordinate": "10.7996311002478, 106.668410897255"
+    },
+    {
+        "id": "66b1c4a2779f74001867418c",
+        "name": "Lê Văn Sỹ - Phạm Văn Hai",
+        "coord": {
+            "latitude": 10.7971175831128,
+            "longitude": 106.664553880692
+        },
+        "coordinate": "10.7971175831128, 106.664553880692"
+    },
+    {
+        "id": "631813ebc9eae60017a196b0",
+        "name": "Cầu Sài Gòn 8 (Thủ Đức)",
+        "coord": {
+            "latitude": 10.7995520591487,
+            "longitude": 106.731228232384
+        },
+        "coordinate": "10.7995520591487, 106.731228232384"
+    },
+    {
+        "id": "587475abb807da0011e33cea",
+        "name": "Trường Sơn - Cửu Long",
+        "coord": {
+            "latitude": 10.8091738427151,
+            "longitude": 106.664789915085
+        },
+        "coordinate": "10.8091738427151, 106.664789915085"
+    },
+    {
+        "id": "5deb576d1dc17d7c5515ad0e",
+        "name": "Cách Mạng Tháng Tám - Nguyễn Đình Chiểu",
+        "coord": {
+            "latitude": 10.774969,
+            "longitude": 106.686639
+        },
+        "coordinate": "10.774969, 106.686639"
+    },
+    {
+        "id": "5deb576d1dc17d7c5515ad11",
+        "name": "Nguyễn Đình Chiểu - Trương Định",
+        "coord": {
+            "latitude": 10.777922,
+            "longitude": 106.689658
+        },
+        "coordinate": "10.777922, 106.689658"
+    },
+    {
+        "id": "587478d8b807da0011e33cf3",
+        "name": "Nút giao Bảy Hiền 1 (Cách Mạng Tháng Tám)",
+        "coord": {
+            "latitude": 10.7928387592472,
+            "longitude": 106.653594374657
+        },
+        "coordinate": "10.7928387592472, 106.653594374657"
+    },
+    {
+        "id": "5deb576d1dc17d7c5515acf8",
+        "name": "Ba Tháng Hai - Cao Thắng",
+        "coord": {
+            "latitude": 10.773823,
+            "longitude": 106.67782
+        },
+        "coordinate": "10.773823, 106.67782"
+    },
+    {
+        "id": "56df83d8c062921100c143e3",
+        "name": "Nút giao Nguyễn Thái Sơn 1 (Hồng Hà)",
+        "coord": {
+            "latitude": 10.8140847327392,
+            "longitude": 106.678351163864
+        },
+        "coordinate": "10.8140847327392, 106.678351163864"
+    },
+    {
+        "id": "6623e5776f998a001b252337",
+        "name": "Trần Quang Diệu - Trường Sa",
+        "coord": {
+            "latitude": 10.7845127944049,
+            "longitude": 106.678436994553
+        },
+        "coordinate": "10.7845127944049, 106.678436994553"
+    },
+    {
+        "id": "5deb576d1dc17d7c5515acfd",
+        "name": "Lý Chính Thắng - Nguyễn Thông",
+        "coord": {
+            "latitude": 10.7793063144528,
+            "longitude": 106.682181358337
+        },
+        "coordinate": "10.7793063144528, 106.682181358337"
+    },
+    {
+        "id": "56df8159c062921100c143dc",
+        "name": "Nút giao Thủ Đức (Lê Văn Việt)",
+        "coord": {
+            "latitude": 10.8490751291612,
+            "longitude": 106.774283051491
+        },
+        "coordinate": "10.8490751291612, 106.774283051491"
+    },
+    {
+        "id": "587ef2e4b807da0011e33d57",
+        "name": "Nguyễn Văn Trỗi - Nguyễn Trọng Tuyển",
+        "coord": {
+            "latitude": 10.7976866831738,
+            "longitude": 106.672310829163
+        },
+        "coordinate": "10.7976866831738, 106.672310829163"
+    },
+    {
+        "id": "6623e6706f998a001b25239b",
+        "name": "Hùng Vương - Trần Nhân Tôn",
+        "coord": {
+            "latitude": 10.7612726484012,
+            "longitude": 106.675046682358
+        },
+        "coordinate": "10.7612726484012, 106.675046682358"
+    },
+    {
+        "id": "662b86551afb9c00172dd227",
+        "name": "Trần Hưng Đạo - Calmette",
+        "coord": {
+            "latitude": 10.7702052976598,
+            "longitude": 106.697469949722
+        },
+        "coordinate": "10.7702052976598, 106.697469949722"
+    },
+    {
+        "id": "649da77ea6068200171a6dd4",
+        "name": "Tôn Đức Thắng - Công trường Mê Linh",
+        "coord": {
+            "latitude": 10.775301268578,
+            "longitude": 106.70676112175
+        },
+        "coordinate": "10.775301268578, 106.70676112175"
+    },
+    {
+        "id": "58b5510817139d0010f35d4e",
+        "name": "Phạm Văn Đồng - Quốc Lộ 13 (2)",
+        "coord": {
+            "latitude": 10.8254711543978,
+            "longitude": 106.71435713768
+        },
+        "coordinate": "10.8254711543978, 106.71435713768"
+    },
+    {
+        "id": "5deb576d1dc17d7c5515ad16",
+        "name": "Nguyễn Thị Minh Khai - Pasteur",
+        "coord": {
+            "latitude": 10.780518,
+            "longitude": 106.695957
+        },
+        "coordinate": "10.780518, 106.695957"
+    },
+    {
+        "id": "63ae7c73bfd3d90017e8f3ed",
+        "name": "Lý Thường Kiệt - Tô Hiến Thành 2",
+        "coord": {
+            "latitude": 10.7708113380158,
+            "longitude": 106.658003926277
+        },
+        "coordinate": "10.7708113380158, 106.658003926277"
+    },
+    {
+        "id": "586e1d4ef9fab7001111b0a2",
+        "name": "Cộng Hòa - Đường C 18",
+        "coord": {
+            "latitude": 10.8016071209638,
+            "longitude": 106.651110649109
+        },
+        "coordinate": "10.8016071209638, 106.651110649109"
+    },
+    {
+        "id": "63195512c9eae60017a1c279",
+        "name": "Nguyễn Trãi - Cống Quỳnh 1",
+        "coord": {
+            "latitude": 10.7663399395947,
+            "longitude": 106.688103715542
+        },
+        "coordinate": "10.7663399395947, 106.688103715542"
+    },
+    {
+        "id": "6623df636f998a001b251e92",
+        "name": "Hai Bà Trưng - Trần Cao Vân",
+        "coord": {
+            "latitude": 10.7839015119534,
+            "longitude": 106.69704079628
+        },
+        "coordinate": "10.7839015119534, 106.69704079628"
+    },
+    {
+        "id": "5d8cdc9d766c880017188970",
+        "name": "Lạc Long Quân - Âu Cơ",
+        "coord": {
+            "latitude": 10.7747690150491,
+            "longitude": 106.647881269455
+        },
+        "coordinate": "10.7747690150491, 106.647881269455"
+    },
+    {
+        "id": "6792f1b78c5ed4001b27f4a9",
+        "name": "Quốc Lộ 13 - Cầu Vĩnh Bình",
+        "coord": {
+            "latitude": 10.8682888641092,
+            "longitude": 106.716213226318
+        },
+        "coordinate": "10.8682888641092, 106.716213226318"
+    },
+    {
+        "id": "595dc5ac3dcfc400106f2898",
+        "name": "Quốc lộ 1 - BQB Đường dẫn cầu vượt Ngã 4 Ga (hướng đi An Sương)",
+        "coord": {
+            "latitude": 10.8613452988547,
+            "longitude": 106.682245731354
+        },
+        "coordinate": "10.8613452988547, 106.682245731354"
+    },
+    {
+        "id": "5a8254f25058170011f6eac5",
+        "name": "Xô Viết Nghệ Tĩnh - Nguyễn Xí 2",
+        "coord": {
+            "latitude": 10.8102803807443,
+            "longitude": 106.712415218353
+        },
+        "coordinate": "10.8102803807443, 106.712415218353"
+    },
+    {
+        "id": "63ae7c53bfd3d90017e8f3d8",
+        "name": "Lý Thường Kiệt - Tô Hiến Thành 1",
+        "coord": {
+            "latitude": 10.7704951431996,
+            "longitude": 106.658336520195
+        },
+        "coordinate": "10.7704951431996, 106.658336520195"
+    },
+    {
+        "id": "5deb576d1dc17d7c5515ad20",
+        "name": "Hồng Bàng - Ngô Quyền 2",
+        "coord": {
+            "latitude": 10.755881,
+            "longitude": 106.666241
+        },
+        "coordinate": "10.755881, 106.666241"
+    },
+    {
+        "id": "5deb576d1dc17d7c5515acfa",
+        "name": "Nút giao Công Trường Dân Chủ",
+        "coord": {
+            "latitude": 10.777664,
+            "longitude": 106.681336
+        },
+        "coordinate": "10.777664, 106.681336"
+    },
+    {
+        "id": "58746536b807da0011e33cdc",
+        "name": "Cầu vượt Bình Phước 1",
+        "coord": {
+            "latitude": 10.8659497751896,
+            "longitude": 106.723519563675
+        },
+        "coordinate": "10.8659497751896, 106.723519563675"
+    },
+    {
+        "id": "662b59291afb9c00172d912b",
+        "name": "Lê Văn Sỹ - Nguyễn Trọng Tuyển",
+        "coord": {
+            "latitude": 10.7987511081718,
+            "longitude": 106.662569046021
+        },
+        "coordinate": "10.7987511081718, 106.662569046021"
+    },
+    {
+        "id": "5a6060a88576340017d0660d",
+        "name": "Nguyễn Thái Sơn - Phan Văn Trị  1",
+        "coord": {
+            "latitude": 10.8261245037402,
+            "longitude": 106.689493060112
+        },
+        "coordinate": "10.8261245037402, 106.689493060112"
+    },
+    {
+        "id": "63b65f33bfd3d90017eaa405",
+        "name": "Nguyễn Hữu Cảnh - Ngô Tất Tố 3 (Nhánh chính cầu Thủ Thiêm 1)",
+        "coord": {
+            "latitude": 10.7887970063747,
+            "longitude": 106.716953516006
+        },
+        "coordinate": "10.7887970063747, 106.716953516006"
+    },
+    {
+        "id": "5deb576d1dc17d7c5515ad1e",
+        "name": "Pasteur - Hàm Nghi",
+        "coord": {
+            "latitude": 10.770674,
+            "longitude": 106.702639
+        },
+        "coordinate": "10.770674, 106.702639"
+    },
+    {
+        "id": "63ae7759bfd3d90017e8f162",
+        "name": "Nguyễn Tất Thành - Cầu Khánh Hội",
+        "coord": {
+            "latitude": 10.7675070857977,
+            "longitude": 106.706036925316
+        },
+        "coordinate": "10.7675070857977, 106.706036925316"
+    },
+    {
+        "id": "63ae7709bfd3d90017e8f135",
+        "name": "Hoàng Diệu - Đoàn Văn Bơ 1",
+        "coord": {
+            "latitude": 10.7632541910898,
+            "longitude": 106.703810691834
+        },
+        "coordinate": "10.7632541910898, 106.703810691834"
+    },
+    {
+        "id": "662b55111afb9c00172d8e2e",
+        "name": "Quang Trung - Phạm Văn Chiêu",
+        "coord": {
+            "latitude": 10.8446442571047,
+            "longitude": 106.640725135803
+        },
+        "coordinate": "10.8446442571047, 106.640725135803"
+    },
+    {
+        "id": "649da419a6068200171a6c90",
+        "name": "Nguyễn Chí Thanh - Ngô Quyền",
+        "coord": {
+            "latitude": 10.759206770879,
+            "longitude": 106.665605306625
+        },
+        "coordinate": "10.759206770879, 106.665605306625"
+    },
+    {
+        "id": "662b82761afb9c00172dcda3",
+        "name": "Trần Quang Khải - Trần Nguyên Đán",
+        "coord": {
+            "latitude": 10.7923592320866,
+            "longitude": 106.694144010544
+        },
+        "coordinate": "10.7923592320866, 106.694144010544"
+    },
+    {
+        "id": "5deb576d1dc17d7c5515acf7",
+        "name": "Nút giao Ngã sáu Cộng Hòa",
+        "coord": {
+            "latitude": 10.765059,
+            "longitude": 106.68172
+        },
+        "coordinate": "10.765059, 106.68172"
+    },
+    {
+        "id": "5d9ddd49766c880017188c94",
+        "name": "Nút giao Hàng Xanh 1 (Viện Máy tính)",
+        "coord": {
+            "latitude": 10.8016545453012,
+            "longitude": 106.71106338501
+        },
+        "coordinate": "10.8016545453012, 106.71106338501"
+    },
+    {
+        "id": "5d8cd767766c880017188950",
+        "name": "Phạm Văn Đồng - Nguyễn Xí (hướng đi Sân bay)",
+        "coord": {
+            "latitude": 10.8230474266509,
+            "longitude": 106.702968478203
+        },
+        "coordinate": "10.8230474266509, 106.702968478203"
+    },
+    {
+        "id": "5874656eb807da0011e33cde",
+        "name": "Cầu vượt Bình Phước 2",
+        "coord": {
+            "latitude": 10.8647433460363,
+            "longitude": 106.724211573601
+        },
+        "coordinate": "10.8647433460363, 106.724211573601"
+    },
+    {
+        "id": "6623e3566f998a001b25226d",
+        "name": "Lê Văn Sỹ - Trường Sa",
+        "coord": {
+            "latitude": 10.786135848679,
+            "longitude": 106.680936813354
+        },
+        "coordinate": "10.786135848679, 106.680936813354"
+    },
+    {
+        "id": "5abbb6d698d8fc001102dfc8",
+        "name": "Nguyễn Văn Linh - Nguyễn Lương Bằng (1)",
+        "coord": {
+            "latitude": 10.7314425344033,
+            "longitude": 106.720451116562
+        },
+        "coordinate": "10.7314425344033, 106.720451116562"
+    },
+    {
+        "id": "56de42f611f398ec0c481296",
+        "name": "Võ Văn Kiệt - Cao Văn Lầu",
+        "coord": {
+            "latitude": 10.7442498171975,
+            "longitude": 106.650842428207
+        },
+        "coordinate": "10.7442498171975, 106.650842428207"
+    },
+    {
+        "id": "5deb576d1dc17d7c5515ad03",
+        "name": "Nam Kỳ Khởi Nghĩa - Nguyễn Đình Chiểu",
+        "coord": {
+            "latitude": 10.7814721788992,
+            "longitude": 106.692835092545
+        },
+        "coordinate": "10.7814721788992, 106.692835092545"
+    },
+    {
+        "id": "63ae777cbfd3d90017e8f177",
+        "name": "Nguyễn Tất Thành - Đoàn Như Hài",
+        "coord": {
+            "latitude": 10.7667745592657,
+            "longitude": 106.706455349922
+        },
+        "coordinate": "10.7667745592657, 106.706455349922"
+    },
+    {
+        "id": "631828cac9eae60017a19f50",
+        "name": "Nguyễn Thị Minh Khai - Nguyễn Bỉnh Khiêm 1",
+        "coord": {
+            "latitude": 10.7887074232314,
+            "longitude": 106.703531742096
+        },
+        "coordinate": "10.7887074232314, 106.703531742096"
+    },
+    {
+        "id": "63b3c2fbbfd3d90017e9abbf",
+        "name": "Cầu Sài Gòn 1 (dạ cầu Bình Thạnh)",
+        "coord": {
+            "latitude": 10.7980089972696,
+            "longitude": 106.724379211664
+        },
+        "coordinate": "10.7980089972696, 106.724379211664"
+    },
+    {
+        "id": "63b54ad1bfd3d90017ea7974",
+        "name": "Võ Chí Công - Liên Phường 1",
+        "coord": {
+            "latitude": 10.8045368770814,
+            "longitude": 106.792543530464
+        },
+        "coordinate": "10.8045368770814, 106.792543530464"
+    },
+    {
+        "id": "662b5b481afb9c00172d92a8",
+        "name": "Trường Chinh - Trương Công Định",
+        "coord": {
+            "latitude": 10.7990461956223,
+            "longitude": 106.641937494278
+        },
+        "coordinate": "10.7990461956223, 106.641937494278"
+    },
+    {
+        "id": "56de42f611f398ec0c48129e",
+        "name": "Đồng Văn Cống - Phan Văn Đáng",
+        "coord": {
+            "latitude": 10.7785053,
+            "longitude": 106.7572618
+        },
+        "coordinate": "10.7785053, 106.7572618"
+    },
+    {
+        "id": "5d9dddb9766c880017188c96",
+        "name": "Nút giao Hàng Xanh 2 (ĐH Hồng Bàng)",
+        "coord": {
+            "latitude": 10.7998787622235,
+            "longitude": 106.706600189209
+        },
+        "coordinate": "10.7998787622235, 106.706600189209"
+    },
+    {
+        "id": "63b65f64bfd3d90017eaa41f",
+        "name": "Xô Viết Nghệ Tĩnh - Đường D5",
+        "coord": {
+            "latitude": 10.8068184838962,
+            "longitude": 106.711615920067
+        },
+        "coordinate": "10.8068184838962, 106.711615920067"
+    },
+    {
+        "id": "63bd1e95bfd3d90017ec3cd5",
+        "name": "Nguyễn Lương Bằng - Hoàng Quốc Việt",
+        "coord": {
+            "latitude": 10.7131108376067,
+            "longitude": 106.731684207916
+        },
+        "coordinate": "10.7131108376067, 106.731684207916"
+    },
+    {
+        "id": "63ae7cd3bfd3d90017e8f408",
+        "name": "Lạc Long Quân - Ông Ích Khiêm",
+        "coord": {
+            "latitude": 10.7667007795163,
+            "longitude": 106.64261341095
+        },
+        "coordinate": "10.7667007795163, 106.64261341095"
+    },
+    {
+        "id": "5d8cd70e766c88001718894e",
+        "name": "Phạm Văn Đồng - Nguyễn Xí (hướng đi Thủ Đức)",
+        "coord": {
+            "latitude": 10.8228313977916,
+            "longitude": 106.703445911407
+        },
+        "coordinate": "10.8228313977916, 106.703445911407"
+    },
+    {
+        "id": "58b555ac17139d0010f35d59",
+        "name": "Tùng Thiện Vương - Cầu Nhị Thiên Đường",
+        "coord": {
+            "latitude": 10.7443815765443,
+            "longitude": 106.656072735786
+        },
+        "coordinate": "10.7443815765443, 106.656072735786"
+    },
+    {
+        "id": "595ddc123dcfc400106f28ba",
+        "name": "Quốc lộ 1 - Cầu vượt Tân Thới Hiệp 1",
+        "coord": {
+            "latitude": 10.8617509592331,
+            "longitude": 106.649812459946
+        },
+        "coordinate": "10.8617509592331, 106.649812459946"
+    },
+    {
+        "id": "587460aab807da0011e33cc2",
+        "name": "Quốc lộ 1 - ĐH Nông Lâm 1",
+        "coord": {
+            "latitude": 10.8671930769878,
+            "longitude": 106.788429021835
+        },
+        "coordinate": "10.8671930769878, 106.788429021835"
+    },
+    {
+        "id": "662a8f701afb9c00172d2b5e",
+        "name": "Nguyễn Thị Thập - Lê Văn Lương",
+        "coord": {
+            "latitude": 10.739928078758,
+            "longitude": 106.703596115112
+        },
+        "coordinate": "10.739928078758, 106.703596115112"
+    },
+    {
+        "id": "63b55020bfd3d90017ea7cb7",
+        "name": "Nút giao Mỹ Thủy (6)",
+        "coord": {
+            "latitude": 10.7702738066308,
+            "longitude": 106.77515745163
+        },
+        "coordinate": "10.7702738066308, 106.77515745163"
+    },
+    {
+        "id": "6623eec96f998a001b25273b",
+        "name": "Quang Trung - Thống Nhất",
+        "coord": {
+            "latitude": 10.8346442594662,
+            "longitude": 106.664371490479
+        },
+        "coordinate": "10.8346442594662, 106.664371490479"
+    },
+    {
+        "id": "662b4d781afb9c00172d8571",
+        "name": "An Dương Vương - Lê Hồng Phong",
+        "coord": {
+            "latitude": 10.7589116443632,
+            "longitude": 106.677567958832
+        },
+        "coordinate": "10.7589116443632, 106.677567958832"
+    },
+    {
+        "id": "5a606a958576340017d06621",
+        "name": "Đinh Bộ Lĩnh - Bạch Đằng 3",
+        "coord": {
+            "latitude": 10.8028664980496,
+            "longitude": 106.709464788437
+        },
+        "coordinate": "10.8028664980496, 106.709464788437"
+    },
+    {
+        "id": "662a8c381afb9c00172d28b6",
+        "name": "Dương Bá Trạc - đường 9A",
+        "coord": {
+            "latitude": 10.7388529049553,
+            "longitude": 106.689584255218
+        },
+        "coordinate": "10.7388529049553, 106.689584255218"
+    },
+    {
+        "id": "63b6617ebfd3d90017eaa50b",
+        "name": "Nguyễn Tất Thành - Cảng SG (Q7-Q4)",
+        "coord": {
+            "latitude": 10.7592436616732,
+            "longitude": 106.713917255402
+        },
+        "coordinate": "10.7592436616732, 106.713917255402"
+    },
+    {
+        "id": "56de42f611f398ec0c481292",
+        "name": "Võ Văn Kiệt - Phạm Phú Thứ",
+        "coord": {
+            "latitude": 10.7413616378753,
+            "longitude": 106.645520925522
+        },
+        "coordinate": "10.7413616378753, 106.645520925522"
+    },
+    {
+        "id": "5deb576d1dc17d7c5515acff",
+        "name": "Hai Bà Trưng - Lý Chính Thắng",
+        "coord": {
+            "latitude": 10.791464,
+            "longitude": 106.687554
+        },
+        "coordinate": "10.791464, 106.687554"
+    },
+    {
+        "id": "662b58791afb9c00172d9107",
+        "name": "255 Hoàng Văn Thụ",
+        "coord": {
+            "latitude": 10.8005216285264,
+            "longitude": 106.664301753044
+        },
+        "coordinate": "10.8005216285264, 106.664301753044"
+    },
+    {
+        "id": "662b811d1afb9c00172dcc1d",
+        "name": "Trần Hưng Đạo - Nguyễn Cư Trinh",
+        "coord": {
+            "latitude": 10.7650143803183,
+            "longitude": 106.692867279053
+        },
+        "coordinate": "10.7650143803183, 106.692867279053"
+    },
+    {
+        "id": "662a8eb41afb9c00172d2aba",
+        "name": "Nguyễn Văn Linh - Nguyễn Thị Thập 2",
+        "coord": {
+            "latitude": 10.7379990877391,
+            "longitude": 106.721824407578
+        },
+        "coordinate": "10.7379990877391, 106.721824407578"
+    },
+    {
+        "id": "63b548ecbfd3d90017ea77d2",
+        "name": "Nguyễn Duy Trinh - Võ Chí Công 1",
+        "coord": {
+            "latitude": 10.7909628024813,
+            "longitude": 106.791990995407
+        },
+        "coordinate": "10.7909628024813, 106.791990995407"
+    },
+    {
+        "id": "5deb576d1dc17d7c5515acfb",
+        "name": "Võ Thị Sáu - Bà Huyện Thanh Quan",
+        "coord": {
+            "latitude": 10.7801863634439,
+            "longitude": 106.684262752533
+        },
+        "coordinate": "10.7801863634439, 106.684262752533"
+    },
+    {
+        "id": "56de42f611f398ec0c48127d",
+        "name": "Mai Chí Thọ - Võ Nguyên Giáp (Cát Lái cầu A)",
+        "coord": {
+            "latitude": 10.8049847689326,
+            "longitude": 106.752707362175
+        },
+        "coordinate": "10.8049847689326, 106.752707362175"
+    },
+    {
+        "id": "56de42f611f398ec0c48128d",
+        "name": "Hải Thượng Lãn Ông - Cầu Chà Và",
+        "coord": {
+            "latitude": 10.7505847415039,
+            "longitude": 106.660031676292
+        },
+        "coordinate": "10.7505847415039, 106.660031676292"
+    },
+    {
+        "id": "6623e7076f998a001b2523ea",
+        "name": "Lý Thái Tổ - Sư Vạn Hạnh",
+        "coord": {
+            "latitude": 10.7677758540786,
+            "longitude": 106.671495437622
+        },
+        "coordinate": "10.7677758540786, 106.671495437622"
+    },
+    {
+        "id": "5d8cda2e766c88001718895e",
+        "name": "Phạm Văn Đồng - Kha Vạn Cân (hướng đi Quốc lộ 1)",
+        "coord": {
+            "latitude": 10.840819218446,
+            "longitude": 106.74354493618
+        },
+        "coordinate": "10.840819218446, 106.74354493618"
+    },
+    {
+        "id": "5d9ddf0f766c880017188c9e",
+        "name": "Nút giao Hàng Xanh 6 (Cầu Điện Biên Phủ - Hàng Xanh)",
+        "coord": {
+            "latitude": 10.8007429428369,
+            "longitude": 106.709132194519
+        },
+        "coordinate": "10.8007429428369, 106.709132194519"
+    },
+    {
+        "id": "63ae76ddbfd3d90017e8f11b",
+        "name": "Khánh Hội -  Hoàng Diệu",
+        "coord": {
+            "latitude": 10.7596389198989,
+            "longitude": 106.698489189148
+        },
+        "coordinate": "10.7596389198989, 106.698489189148"
+    },
+    {
+        "id": "5deb576d1dc17d7c5515ad14",
+        "name": "Lý Tự Trọng - Đồng Khởi",
+        "coord": {
+            "latitude": 10.7778940148849,
+            "longitude": 106.701037287712
+        },
+        "coordinate": "10.7778940148849, 106.701037287712"
+    },
+    {
+        "id": "63b66035bfd3d90017eaa48e",
+        "name": "Nơ Trang Long - Nguyễn Huy Lượng (Bệnh viện Ung Bướu)",
+        "coord": {
+            "latitude": 10.8053483512381,
+            "longitude": 106.695023775101
+        },
+        "coordinate": "10.8053483512381, 106.695023775101"
+    },
+    {
+        "id": "585b284ac3f96200127dc500",
+        "name": "Huỳnh Tấn Phát - Lưu Trọng Lư 1",
+        "coord": {
+            "latitude": 10.7545321437295,
+            "longitude": 106.727795004845
+        },
+        "coordinate": "10.7545321437295, 106.727795004845"
+    },
+    {
+        "id": "56de42f611f398ec0c481295",
+        "name": "Võ Văn Kiệt - Cầu Chà Và 1 (dạ cầu)",
+        "coord": {
+            "latitude": 10.7490827124077,
+            "longitude": 106.659994125366
+        },
+        "coordinate": "10.7490827124077, 106.659994125366"
+    },
+    {
+        "id": "5deb576d1dc17d7c5515ad04",
+        "name": "Võ Thị Sáu - Pasteur",
+        "coord": {
+            "latitude": 10.7860304558102,
+            "longitude": 106.690008044243
+        },
+        "coordinate": "10.7860304558102, 106.690008044243"
+    },
+    {
+        "id": "5a8278f35058170011f6eaed",
+        "name": "Nguyễn Văn Linh - Phạm Hùng 1",
+        "coord": {
+            "latitude": 10.7284488196731,
+            "longitude": 106.677117347717
+        },
+        "coordinate": "10.7284488196731, 106.677117347717"
+    },
+    {
+        "id": "662b830e1afb9c00172dcf50",
+        "name": "Cách Mạng Tháng Tám - Võ Văn Tần",
+        "coord": {
+            "latitude": 10.7743421575788,
+            "longitude": 106.688017845154
+        },
+        "coordinate": "10.7743421575788, 106.688017845154"
+    },
+    {
+        "id": "63b54aedbfd3d90017ea79c3",
+        "name": "Võ Chí Công - Liên Phường 2",
+        "coord": {
+            "latitude": 10.8049478837466,
+            "longitude": 106.791937351227
+        },
+        "coordinate": "10.8049478837466, 106.791937351227"
+    },
+    {
+        "id": "5a825ab55058170011f6ead2",
+        "name": "Nguyễn Văn Linh - Nguyễn Hữu Thọ (2)",
+        "coord": {
+            "latitude": 10.7289864255581,
+            "longitude": 106.700313091278
+        },
+        "coordinate": "10.7289864255581, 106.700313091278"
+    },
+    {
+        "id": "5b0b7bbe0e517b00119fd806",
+        "name": "Nguyễn Văn Cừ - Trần Hưng Đạo 2",
+        "coord": {
+            "latitude": 10.7563925169909,
+            "longitude": 106.685357093811
+        },
+        "coordinate": "10.7563925169909, 106.685357093811"
+    },
+    {
+        "id": "6623edd26f998a001b2526f7",
+        "name": "Vòng xoay Gò Vấp (2)",
+        "coord": {
+            "latitude": 10.8267936584446,
+            "longitude": 106.679542064667
+        },
+        "coordinate": "10.8267936584446, 106.679542064667"
+    },
+    {
+        "id": "5a8255a55058170011f6eac7",
+        "name": "BX Miền Đông - Đinh Bộ Lĩnh 1",
+        "coord": {
+            "latitude": 10.8168141411482,
+            "longitude": 106.711433529854
+        },
+        "coordinate": "10.8168141411482, 106.711433529854"
+    },
+    {
+        "id": "56de42f611f398ec0c481280",
+        "name": "Mai Chí Thọ - Lương Định Của 2",
+        "coord": {
+            "latitude": 10.792627978172,
+            "longitude": 106.751446723938
+        },
+        "coordinate": "10.792627978172, 106.751446723938"
+    },
+    {
+        "id": "587ed91db807da0011e33d4e",
+        "name": "Phan Đăng Lưu - Đinh Tiên Hoàng 2",
+        "coord": {
+            "latitude": 10.8024818353159,
+            "longitude": 106.697963476181
+        },
+        "coordinate": "10.8024818353159, 106.697963476181"
+    },
+    {
+        "id": "63b54dcbbfd3d90017ea7ba8",
+        "name": "Quốc Lộ 1 - Cổng ĐH Quốc gia TPHCM",
+        "coord": {
+            "latitude": 10.865338658848,
+            "longitude": 106.793847084045
+        },
+        "coordinate": "10.865338658848, 106.793847084045"
+    },
+    {
+        "id": "56de42f611f398ec0c48128a",
+        "name": "Võ Văn Kiệt - Trần Đình Xu 2",
+        "coord": {
+            "latitude": 10.7587798913611,
+            "longitude": 106.692545413971
+        },
+        "coordinate": "10.7587798913611, 106.692545413971"
+    },
+    {
+        "id": "6623ed9b6f998a001b2526cd",
+        "name": "Vòng xoay Gò Vấp (1)",
+        "coord": {
+            "latitude": 10.8260981590362,
+            "longitude": 106.680099964142
+        },
+        "coordinate": "10.8260981590362, 106.680099964142"
+    },
+    {
+        "id": "58b5752e17139d0010f35d5f",
+        "name": "Nam Kỳ Khởi Nghĩa -Nguyễn Thị Minh Khai 2",
+        "coord": {
+            "latitude": 10.7794696770349,
+            "longitude": 106.695173978806
+        },
+        "coordinate": "10.7794696770349, 106.695173978806"
+    },
+    {
+        "id": "58175c81edeb6c0012a2d5c2",
+        "name": "Mai Chí Thọ - Trần Não 2",
+        "coord": {
+            "latitude": 10.7757228548636,
+            "longitude": 106.727376580238
+        },
+        "coordinate": "10.7757228548636, 106.727376580238"
+    },
+    {
+        "id": "631812e6c9eae60017a19567",
+        "name": "Cầu Sài Gòn 11 (Bình Thạnh)",
+        "coord": {
+            "latitude": 10.7980818909152,
+            "longitude": 106.723358631134
+        },
+        "coordinate": "10.7980818909152, 106.723358631134"
+    },
+    {
+        "id": "6623e7b76f998a001b25242d",
+        "name": "Đinh Bộ Lĩnh - Bùi Đình Túy",
+        "coord": {
+            "latitude": 10.8083518403949,
+            "longitude": 106.709260940552
+        },
+        "coordinate": "10.8083518403949, 106.709260940552"
+    },
+    {
+        "id": "66f126e8538c780017c9362f",
+        "name": "Nguyễn Chí Thanh - Nguyễn Kim",
+        "coord": {
+            "latitude": 10.7587008395322,
+            "longitude": 106.662740707397
+        },
+        "coordinate": "10.7587008395322, 106.662740707397"
+    },
+    {
+        "id": "63ae75a3bfd3d90017e8f051",
+        "name": "Cống Quỳnh - Phạm Viết Chánh",
+        "coord": {
+            "latitude": 10.767891793263,
+            "longitude": 106.685453653336
+        },
+        "coordinate": "10.767891793263, 106.685453653336"
+    },
+    {
+        "id": "662b7d8a1afb9c00172dc71f",
+        "name": "Lê Lai - Phạm Hồng Thái",
+        "coord": {
+            "latitude": 10.7712223907807,
+            "longitude": 106.695914268494
+        },
+        "coordinate": "10.7712223907807, 106.695914268494"
+    },
+    {
+        "id": "5abbb77298d8fc001102dfce",
+        "name": "Nguyễn Văn Linh - Nguyễn Lương Bằng (2)",
+        "coord": {
+            "latitude": 10.7315637581429,
+            "longitude": 106.720327734947
+        },
+        "coordinate": "10.7315637581429, 106.720327734947"
+    },
+    {
+        "id": "63bd1f48bfd3d90017ec3d19",
+        "name": "Huỳnh Tấn Phát - Nguyễn Thị Thập",
+        "coord": {
+            "latitude": 10.7375247437985,
+            "longitude": 106.730353832245
+        },
+        "coordinate": "10.7375247437985, 106.730353832245"
+    },
+    {
+        "id": "5d8cd886766c880017188956",
+        "name": "Phạm Văn Đồng - Hiệp Bình (hướng đi Thủ Đức)",
+        "coord": {
+            "latitude": 10.8372522994913,
+            "longitude": 106.732848286629
+        },
+        "coordinate": "10.8372522994913, 106.732848286629"
+    },
+    {
+        "id": "5deb576d1dc17d7c5515ad18",
+        "name": "Hai Bà Trưng - Lê Duẩn",
+        "coord": {
+            "latitude": 10.781431,
+            "longitude": 106.699614
+        },
+        "coordinate": "10.781431, 106.699614"
+    },
+    {
+        "id": "66b1c1bf779f740018673ef2",
+        "name": "An Dương Vương - Trần Phú",
+        "coord": {
+            "latitude": 10.7577416756903,
+            "longitude": 106.674488782883
+        },
+        "coordinate": "10.7577416756903, 106.674488782883"
+    },
+    {
+        "id": "56de42f611f398ec0c4812a0",
+        "name": "Nguyễn Thị Định - Đường A",
+        "coord": {
+            "latitude": 10.7627851568961,
+            "longitude": 106.783590316772
+        },
+        "coordinate": "10.7627851568961, 106.783590316772"
+    },
+    {
+        "id": "662b50841afb9c00172d880d",
+        "name": "Tùng Thiện Vương - Xóm Củi",
+        "coord": {
+            "latitude": 10.7466952613032,
+            "longitude": 106.660562753677
+        },
+        "coordinate": "10.7466952613032, 106.660562753677"
+    },
+    {
+        "id": "58abc0cbbd82540010390ba6",
+        "name": "Cầu Sài Gòn 3 (Dạ cầu Bình Thạnh)",
+        "coord": {
+            "latitude": 10.7982289959934,
+            "longitude": 106.724311485887
+        },
+        "coordinate": "10.7982289959934, 106.724311485887"
+    },
+    {
+        "id": "5deb576d1dc17d7c5515ad07",
+        "name": "Nguyễn Văn Trỗi - Trương Quốc Dung",
+        "coord": {
+            "latitude": 10.797381,
+            "longitude": 106.672665
+        },
+        "coordinate": "10.797381, 106.672665"
+    },
+    {
+        "id": "5d8cdc1d766c88001718896c",
+        "name": "Trường Sơn - Hậu Giang",
+        "coord": {
+            "latitude": 10.8076721060064,
+            "longitude": 106.664478778839
+        },
+        "coordinate": "10.8076721060064, 106.664478778839"
+    },
+    {
+        "id": "5a606c758576340017d06626",
+        "name": "BX Miền Đông - Quốc Lộ 13 (1)",
+        "coord": {
+            "latitude": 10.8142322689639,
+            "longitude": 106.712779998779
+        },
+        "coordinate": "10.8142322689639, 106.712779998779"
+    },
+    {
+        "id": "68fae2966b936b00172186a6",
+        "name": "Võ Chí Công - đường số 5 (1)",
+        "coord": {
+            "latitude": 10.7753434272331,
+            "longitude": 106.780436038971
+        },
+        "coordinate": "10.7753434272331, 106.780436038971"
+    },
+    {
+        "id": "5a82628e5058170011f6eadb",
+        "name": "Nguyễn Văn Linh - Quốc lộ 50 (1)",
+        "coord": {
+            "latitude": 10.7199365991593,
+            "longitude": 106.655665040016
+        },
+        "coordinate": "10.7199365991593, 106.655665040016"
+    },
+    {
+        "id": "5d8cd653766c88001718894c",
+        "name": "Kha Vạn Cân - Võ Văn Ngân",
+        "coord": {
+            "latitude": 10.8509770648006,
+            "longitude": 106.75500869751
+        },
+        "coordinate": "10.8509770648006, 106.75500869751"
+    },
+    {
+        "id": "662b4de41afb9c00172d85c5",
+        "name": "Hải Thượng Lãn Ông - Châu Văn Liêm",
+        "coord": {
+            "latitude": 10.7509852813336,
+            "longitude": 106.658996343613
+        },
+        "coordinate": "10.7509852813336, 106.658996343613"
+    },
+    {
+        "id": "58af8eb2bd82540010390c30",
+        "name": "Nam Kỳ Khởi Nghĩa -Nguyễn Thị Minh Khai 1",
+        "coord": {
+            "latitude": 10.7797542439016,
+            "longitude": 106.695082783699
+        },
+        "coordinate": "10.7797542439016, 106.695082783699"
+    },
+    {
+        "id": "6623ee176f998a001b25270c",
+        "name": "Phan Văn Trị - Lê Đức Thọ",
+        "coord": {
+            "latitude": 10.829417573494,
+            "longitude": 106.6819024086
+        },
+        "coordinate": "10.829417573494, 106.6819024086"
+    },
+    {
+        "id": "662a8e641afb9c00172d2a7e",
+        "name": "Nguyễn Văn Linh - Nguyễn Thị Thập 1",
+        "coord": {
+            "latitude": 10.7379358419233,
+            "longitude": 106.721234321594
+        },
+        "coordinate": "10.7379358419233, 106.721234321594"
+    },
+    {
+        "id": "63ae7c12bfd3d90017e8f3c0",
+        "name": "Ba Tháng Hai - Lê Đại Hành 2",
+        "coord": {
+            "latitude": 10.7621422099615,
+            "longitude": 106.656598448753
+        },
+        "coordinate": "10.7621422099615, 106.656598448753"
+    },
+    {
+        "id": "68ae7e997d735d00173c7445",
+        "name": "Cầu Bình Triệu (2) hướng đi lên cầu Bình Triệu 2",
+        "coord": {
+            "latitude": 10.8242434860543,
+            "longitude": 106.714024543762
+        },
+        "coordinate": "10.8242434860543, 106.714024543762"
+    },
+    {
+        "id": "5b0b835b0e517b00119fd80d",
+        "name": "Tam Bình (Số 81)",
+        "coord": {
+            "latitude": 10.8530844585776,
+            "longitude": 106.73014998436
+        },
+        "coordinate": "10.8530844585776, 106.73014998436"
+    },
+    {
+        "id": "662b82da1afb9c00172dce94",
+        "name": "Hai Bà Trưng - Nguyễn Hữu Cầu",
+        "coord": {
+            "latitude": 10.7893713917772,
+            "longitude": 106.690120697021
+        },
+        "coordinate": "10.7893713917772, 106.690120697021"
+    },
+    {
+        "id": "5d8cd2a3766c88001718893c",
+        "name": "Nút giao Cây Gõ 1 (trên cầu)",
+        "coord": {
+            "latitude": 10.7544425503934,
+            "longitude": 106.642913818359
+        },
+        "coordinate": "10.7544425503934, 106.642913818359"
+    },
+    {
+        "id": "662b4e8e1afb9c00172d865c",
+        "name": "Lý Thường Kiệt - Nguyễn Chí Thanh",
+        "coord": {
+            "latitude": 10.7584267930315,
+            "longitude": 106.661485433578
+        },
+        "coordinate": "10.7584267930315, 106.661485433578"
+    },
+    {
+        "id": "66b1c190779f740018673ed4",
+        "name": "Nguyễn Trãi - Trần Phú",
+        "coord": {
+            "latitude": 10.7550749733738,
+            "longitude": 106.67188167572
+        },
+        "coordinate": "10.7550749733738, 106.67188167572"
+    },
+    {
+        "id": "662b7f9f1afb9c00172dca50",
+        "name": "Nguyễn Đình Chiểu - Nguyễn Bỉnh Khiêm",
+        "coord": {
+            "latitude": 10.7904674636287,
+            "longitude": 106.701471805573
+        },
+        "coordinate": "10.7904674636287, 106.701471805573"
+    },
+    {
+        "id": "58747923b807da0011e33cf5",
+        "name": "Nút giao Bảy Hiền 2 (Hoàng Văn Thụ)",
+        "coord": {
+            "latitude": 10.7931970867358,
+            "longitude": 106.653615832329
+        },
+        "coordinate": "10.7931970867358, 106.653615832329"
+    },
+    {
+        "id": "63ae7af4bfd3d90017e8f32c",
+        "name": "Ba Tháng Hai - Lý Thường Kiệt 2",
+        "coord": {
+            "latitude": 10.7636125538021,
+            "longitude": 106.659564971924
+        },
+        "coordinate": "10.7636125538021, 106.659564971924"
+    },
+    {
+        "id": "5875d4f8b807da0011e33d1a",
+        "name": "Tạ Quang Bửu - Phạm Hùng 1",
+        "coord": {
+            "latitude": 10.7372717600591,
+            "longitude": 106.670937538147
+        },
+        "coordinate": "10.7372717600591, 106.670937538147"
+    },
+    {
+        "id": "595d92013dcfc400106f2877",
+        "name": "Quốc Lộ 1A - Cầu Bình Phước",
+        "coord": {
+            "latitude": 10.8607025631008,
+            "longitude": 106.715140342712
+        },
+        "coordinate": "10.8607025631008, 106.715140342712"
+    },
+    {
+        "id": "583f976361cfea0012cf68f9",
+        "name": "Nguyễn Thị Định - Lê Phụng Hiểu",
+        "coord": {
+            "latitude": 10.7619577577189,
+            "longitude": 106.784512996674
+        },
+        "coordinate": "10.7619577577189, 106.784512996674"
+    },
+    {
+        "id": "662b80721afb9c00172dcb28",
+        "name": "Nguyễn Văn Thủ - Trần Doãn Khanh",
+        "coord": {
+            "latitude": 10.788633648858,
+            "longitude": 106.69774889946
+        },
+        "coordinate": "10.788633648858, 106.69774889946"
+    },
+    {
+        "id": "63b65f8dbfd3d90017eaa434",
+        "name": "Xô Viết Nghệ Tĩnh - Phan Văn Hân (Cầu Thị Nghè)",
+        "coord": {
+            "latitude": 10.7927439077816,
+            "longitude": 106.707404851913
+        },
+        "coordinate": "10.7927439077816, 106.707404851913"
+    },
+    {
+        "id": "5d9de3c2766c880017188cb3",
+        "name": "Cao tốc LTDG - Cầu Bà Dạt 3",
+        "coord": {
+            "latitude": 10.7929019935409,
+            "longitude": 106.754863858223
+        },
+        "coordinate": "10.7929019935409, 106.754863858223"
+    },
+    {
+        "id": "63ae7cfcbfd3d90017e8f422",
+        "name": "Cách Mạng Tháng Tám – Phạm Văn Hai",
+        "coord": {
+            "latitude": 10.7890446772791,
+            "longitude": 106.660680770874
+        },
+        "coordinate": "10.7890446772791, 106.660680770874"
+    },
+    {
+        "id": "5b0e1faacddcc80011ceb449",
+        "name": "Nút giao Hàng Xanh 8 (HX-VT)",
+        "coord": {
+            "latitude": 10.8012804197692,
+            "longitude": 106.711969971657
+        },
+        "coordinate": "10.8012804197692, 106.711969971657"
+    },
+    {
+        "id": "6623e7f06f998a001b25244a",
+        "name": "Đinh Bộ Lĩnh - Chu Văn An",
+        "coord": {
+            "latitude": 10.8105965337175,
+            "longitude": 106.709175109863
+        },
+        "coordinate": "10.8105965337175, 106.709175109863"
+    },
+    {
+        "id": "6623e5066f998a001b252317",
+        "name": "Nguyễn Thị Minh Khai - Tôn Thất Tùng",
+        "coord": {
+            "latitude": 10.7712645500069,
+            "longitude": 106.687191724777
+        },
+        "coordinate": "10.7712645500069, 106.687191724777"
+    },
+    {
+        "id": "66b1c158779f740018673eb4",
+        "name": "Hùng Vương - Lê Hồng Phong",
+        "coord": {
+            "latitude": 10.7622528812529,
+            "longitude": 106.676441431046
+        },
+        "coordinate": "10.7622528812529, 106.676441431046"
+    },
+    {
+        "id": "56df8381c062921100c143e2",
+        "name": "Nguyễn Hữu Thọ - Nguyễn Thị Thập 1",
+        "coord": {
+            "latitude": 10.740497286869,
+            "longitude": 106.700946092606
+        },
+        "coordinate": "10.740497286869, 106.700946092606"
+    },
+    {
+        "id": "6623e61d6f998a001b252377",
+        "name": "Cách Mạng Tháng Tám - Rạch Bùng Binh",
+        "coord": {
+            "latitude": 10.7794538677567,
+            "longitude": 106.678587198257
+        },
+        "coordinate": "10.7794538677567, 106.678587198257"
+    },
+    {
+        "id": "595da2dd3dcfc400106f2885",
+        "name": "Quốc lộ 1 - Đường 15 (2)",
+        "coord": {
+            "latitude": 10.8601177777294,
+            "longitude": 106.698709130287
+        },
+        "coordinate": "10.8601177777294, 106.698709130287"
+    },
+    {
+        "id": "6623f1996f998a001b252805",
+        "name": "Mai Chí Thọ - Xa Lộ Hà Nội (3)",
+        "coord": {
+            "latitude": 10.809194919668,
+            "longitude": 106.756038665771
+        },
+        "coordinate": "10.809194919668, 106.756038665771"
+    },
+    {
+        "id": "595f80e83dcfc400106f28e4",
+        "name": "Quốc lộ 1 - BQB Cầu vượt Tân Thới Hiệp B (hướng Bình Phước)",
+        "coord": {
+            "latitude": 10.8600387525913,
+            "longitude": 106.645692586899
+        },
+        "coordinate": "10.8600387525913, 106.645692586899"
+    },
+    {
+        "id": "5deb576d1dc17d7c5515acf5",
+        "name": "Nút giao Ngã bảy Lý Thái Tổ",
+        "coord": {
+            "latitude": 10.767428,
+            "longitude": 106.674596
+        },
+        "coordinate": "10.767428, 106.674596"
+    },
+    {
+        "id": "631955e7c9eae60017a1c30a",
+        "name": "Cách Mạng Tháng Tám – Hòa Hưng",
+        "coord": {
+            "latitude": 10.7802232516687,
+            "longitude": 106.677144169807
+        },
+        "coordinate": "10.7802232516687, 106.677144169807"
+    },
+    {
+        "id": "5a6060e08576340017d0660f",
+        "name": "Nguyễn Thái Sơn - Phan Văn Trị 2",
+        "coord": {
+            "latitude": 10.8262720340397,
+            "longitude": 106.689149737358
+        },
+        "coordinate": "10.8262720340397, 106.689149737358"
+    },
+    {
+        "id": "63ae7a26bfd3d90017e8f29a",
+        "name": "Ba Tháng Hai - Lê Hồng Phong 2",
+        "coord": {
+            "latitude": 10.7711380723106,
+            "longitude": 106.672922372818
+        },
+        "coordinate": "10.7711380723106, 106.672922372818"
+    },
+    {
+        "id": "63b548c3bfd3d90017ea77c0",
+        "name": "Nguyễn Duy Trinh - Nguyễn Thị Tư",
+        "coord": {
+            "latitude": 10.792733368728,
+            "longitude": 106.806946992874
+        },
+        "coordinate": "10.792733368728, 106.806946992874"
+    },
+    {
+        "id": "662a8c931afb9c00172d2901",
+        "name": "Huỳnh Tấn Phát - Hoàng Quốc Việt",
+        "coord": {
+            "latitude": 10.7143336880567,
+            "longitude": 106.736941337585
+        },
+        "coordinate": "10.7143336880567, 106.736941337585"
+    },
+    {
+        "id": "63195556c9eae60017a1c2ba",
+        "name": "Nguyễn Trãi - Cống Quỳnh 2",
+        "coord": {
+            "latitude": 10.7668302628021,
+            "longitude": 106.688015724794
+        },
+        "coordinate": "10.7668302628021, 106.688015724794"
+    },
+    {
+        "id": "58df4adedc195800111e04b4",
+        "name": "Phổ Quang - Huỳnh Lan Khanh",
+        "coord": {
+            "latitude": 10.8049689609963,
+            "longitude": 106.666592359543
+        },
+        "coordinate": "10.8049689609963, 106.666592359543"
+    },
+    {
+        "id": "583f958161cfea0012cf68f5",
+        "name": "Nguyễn Thị Định - Đường C",
+        "coord": {
+            "latitude": 10.7660209509751,
+            "longitude": 106.779872775078
+        },
+        "coordinate": "10.7660209509751, 106.779872775078"
+    },
+    {
+        "id": "5a8253615058170011f6eabf",
+        "name": "Đinh Bộ Lĩnh - Bạch Đằng 1",
+        "coord": {
+            "latitude": 10.8030720025958,
+            "longitude": 106.710022687912
+        },
+        "coordinate": "10.8030720025958, 106.710022687912"
+    },
+    {
+        "id": "5deb576d1dc17d7c5515ad0f",
+        "name": "Nguyễn Thị Minh Khai - Trương Định",
+        "coord": {
+            "latitude": 10.776014,
+            "longitude": 106.691731
+        },
+        "coordinate": "10.776014, 106.691731"
+    },
+    {
+        "id": "68fae2b66b936b00172186e5",
+        "name": "Võ Chí Công - đường số 5 (2)",
+        "coord": {
+            "latitude": 10.775996885673,
+            "longitude": 106.780489683151
+        },
+        "coordinate": "10.775996885673, 106.780489683151"
+    },
+    {
+        "id": "66b1c370779f7400186740b3",
+        "name": "Thành Thái - Tô Hiến Thành",
+        "coord": {
+            "latitude": 10.7763868520664,
+            "longitude": 106.663513183594
+        },
+        "coordinate": "10.7763868520664, 106.663513183594"
+    },
+    {
+        "id": "5d9dde1f766c880017188c98",
+        "name": "Nút giao Hàng Xanh 3 (Cầu Thị Nghè - Hàng Xanh)",
+        "coord": {
+            "latitude": 10.8001422321862,
+            "longitude": 106.711294054985
+        },
+        "coordinate": "10.8001422321862, 106.711294054985"
+    },
+    {
+        "id": "5deb576d1dc17d7c5515ad22",
+        "name": "Nút giao Ngã sáu Nguyễn Tri Phương",
+        "coord": {
+            "latitude": 10.76009,
+            "longitude": 106.669124
+        },
+        "coordinate": "10.76009, 106.669124"
+    },
+    {
+        "id": "662b85031afb9c00172dd0dc",
+        "name": "Lê Lợi - Phan Bội Châu",
+        "coord": {
+            "latitude": 10.772307988975,
+            "longitude": 106.698939800262
+        },
+        "coordinate": "10.772307988975, 106.698939800262"
+    },
+    {
+        "id": "662a8f3a1afb9c00172d2b31",
+        "name": "Nguyễn Hữu Thọ - Đường số 15",
+        "coord": {
+            "latitude": 10.7445238765742,
+            "longitude": 106.701600551605
+        },
+        "coordinate": "10.7445238765742, 106.701600551605"
+    },
+    {
+        "id": "5d8cdb9f766c880017188968",
+        "name": "Hoàng Văn Thụ - Trần Huy Liệu",
+        "coord": {
+            "latitude": 10.7993728992472,
+            "longitude": 106.677471399307
+        },
+        "coordinate": "10.7993728992472, 106.677471399307"
+    },
+    {
+        "id": "5a8253bc5058170011f6eac1",
+        "name": "Đinh Bộ Lĩnh - Bạch Đằng 2",
+        "coord": {
+            "latitude": 10.8030930799773,
+            "longitude": 106.709395051003
+        },
+        "coordinate": "10.8030930799773, 106.709395051003"
+    },
+    {
+        "id": "587c782db807da0011e33d3b",
+        "name": "Võ Nguyên Giáp - Thảo Điền",
+        "coord": {
+            "latitude": 10.8010116814233,
+            "longitude": 106.738277077675
+        },
+        "coordinate": "10.8010116814233, 106.738277077675"
+    },
+    {
+        "id": "662a8d821afb9c00172d29c8",
+        "name": "Nguyễn Thị Thập - Tân Mỹ",
+        "coord": {
+            "latitude": 10.7381993660681,
+            "longitude": 106.718316078186
+        },
+        "coordinate": "10.7381993660681, 106.718316078186"
+    },
+    {
+        "id": "63ae7d29bfd3d90017e8f437",
+        "name": "Lý Thường Kiệt - Bắc Hải",
+        "coord": {
+            "latitude": 10.7778307774358,
+            "longitude": 106.656131744385
+        },
+        "coordinate": "10.7778307774358, 106.656131744385"
+    },
+    {
+        "id": "68ae7ee47d735d00173c7492",
+        "name": "Cầu Bình Triệu (2) hướng vòng xoay",
+        "coord": {
+            "latitude": 10.8239589613426,
+            "longitude": 106.713756322861
+        },
+        "coordinate": "10.8239589613426, 106.713756322861"
+    },
+    {
+        "id": "56de42f611f398ec0c48129f",
+        "name": "Đồng Văn Cống - Nguyễn Thị Định",
+        "coord": {
+            "latitude": 10.7731722,
+            "longitude": 106.7702866
+        },
+        "coordinate": "10.7731722, 106.7702866"
+    },
+    {
+        "id": "662b80b91afb9c00172dcb5b",
+        "name": "Nút giao Ngã sáu Phù Đổng 2",
+        "coord": {
+            "latitude": 10.7715702042204,
+            "longitude": 106.693022847176
+        },
+        "coordinate": "10.7715702042204, 106.693022847176"
+    },
+    {
+        "id": "5deb576d1dc17d7c5515ad1f",
+        "name": "Hùng Vương - Ngô Gia Tự",
+        "coord": {
+            "latitude": 10.7563292750288,
+            "longitude": 106.666474342346
+        },
+        "coordinate": "10.7563292750288, 106.666474342346"
+    },
+    {
+        "id": "662b50261afb9c00172d87b2",
+        "name": "Dương Bá Trạc - Đường số 9",
+        "coord": {
+            "latitude": 10.7420784148825,
+            "longitude": 106.688178777695
+        },
+        "coordinate": "10.7420784148825, 106.688178777695"
+    },
+    {
+        "id": "5a8256df5058170011f6eacb",
+        "name": "BX Miền Đông - Quốc Lộ 13 (2)",
+        "coord": {
+            "latitude": 10.8172620146729,
+            "longitude": 106.713198423386
+        },
+        "coordinate": "10.8172620146729, 106.713198423386"
+    },
+    {
+        "id": "5deb576d1dc17d7c5515acfc",
+        "name": "Điện Biên Phủ - Trương Định",
+        "coord": {
+            "latitude": 10.7800124617515,
+            "longitude": 106.68729364872
+        },
+        "coordinate": "10.7800124617515, 106.68729364872"
+    },
+    {
+        "id": "587c8c20b807da0011e33d47",
+        "name": "Hoàng Văn Thụ - Hồ Văn Huê",
+        "coord": {
+            "latitude": 10.7994466709843,
+            "longitude": 106.674934029579
+        },
+        "coordinate": "10.7994466709843, 106.674934029579"
+    },
+    {
+        "id": "58744fb0b807da0011e33cc0",
+        "name": "Hưng Phú - Chánh Hưng 2",
+        "coord": {
+            "latitude": 10.7463895818732,
+            "longitude": 106.669129729271
+        },
+        "coordinate": "10.7463895818732, 106.669129729271"
+    },
+    {
+        "id": "5822f23aedeb6c0012a2d6a8",
+        "name": "Hồng Bàng - Nguyễn Thị Nhỏ",
+        "coord": {
+            "latitude": 10.7535518857808,
+            "longitude": 106.651153564453
+        },
+        "coordinate": "10.7535518857808, 106.651153564453"
+    },
+    {
+        "id": "649da495a6068200171a6cb6",
+        "name": "Mai Chí Thọ - Trần Quý Kiên (3)",
+        "coord": {
+            "latitude": 10.7817936319045,
+            "longitude": 106.740009784698
+        },
+        "coordinate": "10.7817936319045, 106.740009784698"
+    },
+    {
+        "id": "63b54938bfd3d90017ea77f6",
+        "name": "Nguyễn Duy Trinh - Lã Xuân Oai",
+        "coord": {
+            "latitude": 10.8055485847835,
+            "longitude": 106.817160844803
+        },
+        "coordinate": "10.8055485847835, 106.817160844803"
+    }
+]

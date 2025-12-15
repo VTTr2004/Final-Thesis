@@ -1,0 +1,265 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Wrong-way Detection Demo — Frontend</title>
+  <style>
+    body { font-family: Inter, system-ui, Arial, sans-serif; margin: 24px; color: #111; }
+    h1 { margin-bottom: 8px; font-size: 20px; }
+    .card { border: 1px solid #e3e3e3; border-radius: 8px; padding: 16px; max-width: 760px; }
+    .row { display:flex; gap:12px; align-items:center; margin-bottom:12px; }
+    .btn { padding: 8px 12px; border-radius:6px; border:1px solid #888; background:#f7f7f7; cursor:pointer; }
+    .btn:disabled { opacity:0.6; cursor:not-allowed; }
+    .progress { width:100%; height:12px; background:#f0f0f0; border-radius:6px; overflow:hidden; }
+    .progress > i { display:block; height:100%; width:0%; background:linear-gradient(90deg,#4f46e5,#06b6d4); transition: width .25s; }
+    textarea.log { width:100%; height:120px; margin-top:8px; padding:8px; box-sizing:border-box; font-family:monospace; resize:vertical; }
+    .muted { color:#666; font-size:13px; }
+    video { max-width:100%; border-radius:6px; margin-top:12px; background:#000; }
+    label { font-weight:600; margin-right:8px; }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>Wrong-way Detection — Demo</h1>
+
+    <div class="row">
+      <label for="fileInput">Chọn video</label>
+      <input id="fileInput" type="file" accept="video/mp4,video/*" />
+      <button id="uploadBtn" class="btn">Upload & Run</button>
+      <button id="stopPollingBtn" class="btn" disabled>Stop Poll</button>
+    </div>
+
+    <div class="row">
+      <div style="flex:1">
+        <div class="muted">Upload progress</div>
+        <div class="progress"><i id="uploadBar"></i></div>
+      </div>
+      <div style="width:160px; text-align:right;">
+        <div class="muted">Job ID</div>
+        <div id="jobId" style="word-break:break-all">—</div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div style="flex:1">
+        <div class="muted">Pipeline progress</div>
+        <div class="progress"><i id="pipelineBar"></i></div>
+      </div>
+      <div style="width:160px; text-align:right;">
+        <div class="muted">Status</div>
+        <div id="statusText">idle</div>
+      </div>
+    </div>
+
+    <div style="margin-top:12px;">
+      <button id="openResultBtn" class="btn" disabled>Open Result Video</button>
+      <button id="downloadJsonBtn" class="btn" disabled>Download Result JSON</button>
+    </div>
+
+    <textarea id="log" class="log" readonly placeholder="Logs..."></textarea>
+
+    <div id="resultArea" style="margin-top:12px;">
+      <video id="resultVideo" controls hidden></video>
+      <pre id="resultJson" style="display:none; white-space:pre-wrap; background:#fafafa; padding:8px; border-radius:6px; margin-top:8px;"></pre>
+    </div>
+
+    <p class="muted" style="margin-top:12px;">
+      Lưu ý: frontend này giả định backend có các endpoint:
+      <code>POST /upload-video</code> trả JSON <code>{ "job_id": "<id>" }</code>,<br/>
+      <code>GET /job/{job_id}/status</code> trả <code>{ "status": "running|finished|failed", "progress": int }</code>,<br/>
+      <code>GET /job/{job_id}/result</code> trả <code>{ "output_url": "https://...", "meta": {...} }</code>.
+    </p>
+  </div>
+
+  <script>
+  (function () {
+    const fileInput = document.getElementById('fileInput');
+    const uploadBtn = document.getElementById('uploadBtn');
+    const stopPollingBtn = document.getElementById('stopPollingBtn');
+    const jobIdEl = document.getElementById('jobId');
+    const uploadBar = document.getElementById('uploadBar');
+    const pipelineBar = document.getElementById('pipelineBar');
+    const statusText = document.getElementById('statusText');
+    const logEl = document.getElementById('log');
+    const openResultBtn = document.getElementById('openResultBtn');
+    const downloadJsonBtn = document.getElementById('downloadJsonBtn');
+    const resultVideo = document.getElementById('resultVideo');
+    const resultJson = document.getElementById('resultJson');
+
+    // Config backend base URL (change if backend runs on other host/port)
+    const API_BASE = ''; // e.g. 'http://localhost:8000' or empty for same origin
+
+    let currentJob = null;
+    let pollTimer = null;
+
+    function log(text) {
+      const ts = new Date().toISOString();
+      logEl.value += `[${ts}] ${text}\n`;
+      logEl.scrollTop = logEl.scrollHeight;
+    }
+
+    function resetUI() {
+      uploadBar.style.width = '0%';
+      pipelineBar.style.width = '0%';
+      jobIdEl.textContent = '—';
+      statusText.textContent = 'idle';
+      openResultBtn.disabled = true;
+      downloadJsonBtn.disabled = true;
+      resultVideo.hidden = true;
+      resultVideo.src = '';
+      resultJson.style.display = 'none';
+      resultJson.textContent = '';
+      currentJob = null;
+      if (pollTimer) { clearInterval(pollTimer); pollTimer = null; stopPollingBtn.disabled = true; }
+    }
+
+    async function uploadAndStart() {
+      const file = fileInput.files[0];
+      if (!file) { alert('Chọn file video trước'); return; }
+
+      resetUI();
+      uploadBtn.disabled = true;
+      log('Starting upload...');
+
+      const form = new FormData();
+      form.append('file', file);
+
+      // Use XHR for upload progress
+      const xhr = new XMLHttpRequest();
+      xhr.open('POST', API_BASE + '/upload-video', true);
+
+      xhr.upload.onprogress = function (e) {
+        if (e.lengthComputable) {
+          const pct = Math.round((e.loaded / e.total) * 100);
+          uploadBar.style.width = pct + '%';
+        }
+      };
+
+      xhr.onload = function () {
+        uploadBtn.disabled = false;
+        if (xhr.status >= 200 && xhr.status < 300) {
+          try {
+            const resp = JSON.parse(xhr.responseText);
+            if (resp.job_id) {
+              currentJob = resp.job_id;
+              jobIdEl.textContent = currentJob;
+              log('Uploaded. Job created: ' + currentJob);
+              startPolling();
+            } else {
+              log('Unexpected response: ' + xhr.responseText);
+              alert('Upload succeeded but response invalid. Check logs.');
+            }
+          } catch (err) {
+            log('Parse response error: ' + err);
+            alert('Upload succeeded but parse failed.');
+          }
+        } else {
+          log('Upload failed: ' + xhr.status + ' ' + xhr.statusText);
+          alert('Upload failed: ' + xhr.statusText);
+        }
+      };
+
+      xhr.onerror = function () {
+        uploadBtn.disabled = false;
+        log('Upload error.');
+        alert('Network error during upload.');
+      };
+
+      xhr.send(form);
+    }
+
+    async function startPolling() {
+      if (!currentJob) return;
+      stopPollingBtn.disabled = false;
+      pollStatus(); // immediate
+      pollTimer = setInterval(pollStatus, 1500);
+    }
+
+    async function pollStatus() {
+      if (!currentJob) return;
+      try {
+        const res = await fetch(API_BASE + '/job/' + currentJob + '/status', { cache: 'no-store' });
+        if (!res.ok) {
+          log('Status request failed: ' + res.status);
+          return;
+        }
+        const data = await res.json();
+        const status = data.status || 'unknown';
+        const progress = Number(data.progress || 0);
+        statusText.textContent = status;
+        pipelineBar.style.width = Math.max(0, Math.min(100, progress)) + '%';
+        log('Status: ' + status + ' progress=' + progress);
+
+        if (status === 'finished') {
+          log('Job finished — fetching result.');
+          clearInterval(pollTimer); pollTimer = null;
+          stopPollingBtn.disabled = true;
+          await fetchResult();
+        } else if (status === 'failed') {
+          clearInterval(pollTimer); pollTimer = null;
+          stopPollingBtn.disabled = true;
+          log('Job failed.');
+          alert('Job failed. Check server logs.');
+        }
+      } catch (err) {
+        log('Poll error: ' + err);
+      }
+    }
+
+    async function fetchResult() {
+      if (!currentJob) return;
+      try {
+        const res = await fetch(API_BASE + '/job/' + currentJob + '/result', { cache: 'no-store' });
+        if (!res.ok) { log('Result fetch failed: ' + res.status); return; }
+        const data = await res.json();
+        log('Result: ' + JSON.stringify(data));
+        // Expect e.g. { output_url: "...", meta: {...} }
+        if (data.output_url) {
+          resultVideo.src = data.output_url;
+          resultVideo.hidden = false;
+          openResultBtn.disabled = false;
+          downloadJsonBtn.disabled = false;
+          resultJson.style.display = 'block';
+          resultJson.textContent = JSON.stringify(data.meta || data, null, 2);
+        } else {
+          resultJson.style.display = 'block';
+          resultJson.textContent = JSON.stringify(data, null, 2);
+        }
+      } catch (err) {
+        log('Fetch result error: ' + err);
+      }
+    }
+
+    uploadBtn.addEventListener('click', uploadAndStart);
+    stopPollingBtn.addEventListener('click', function () {
+      if (pollTimer) { clearInterval(pollTimer); pollTimer = null; stopPollingBtn.disabled = true; log('Polling stopped by user.'); }
+    });
+
+    openResultBtn.addEventListener('click', function () {
+      if (resultVideo.src) window.open(resultVideo.src, '_blank');
+    });
+
+    downloadJsonBtn.addEventListener('click', function () {
+      if (!currentJob) return;
+      fetch((API_BASE || '') + '/job/' + currentJob + '/result')
+        .then(r => r.json())
+        .then(j => {
+          const blob = new Blob([JSON.stringify(j, null, 2)], { type: 'application/json' });
+          const url = URL.createObjectURL(blob);
+          const a = document.createElement('a');
+          a.href = url;
+          a.download = currentJob + '-result.json';
+          document.body.appendChild(a);
+          a.click();
+          a.remove();
+          URL.revokeObjectURL(url);
+        });
+    });
+
+    // init
+    resetUI();
+  })();
+  </script>
+</body>
+</html>
